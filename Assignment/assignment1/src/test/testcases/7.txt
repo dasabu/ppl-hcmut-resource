@@ -1,0 +1,7 @@
+class test {
+            int[5] a, b = {1,2,3,4,5,6,6,7}, xyz__;
+            final string[10] x = {true, true, false};
+            static string[12] _da;
+            static final float[100] keke = {0};
+        }
+        

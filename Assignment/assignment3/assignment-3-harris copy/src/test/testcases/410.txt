@@ -1,0 +1,11 @@
+
+        class Test {
+            final int c = 9;
+            foo(int a){}
+            int fun(){
+                Test a;
+                a := new Test(9);
+                b := 0;
+            }
+        }
+        

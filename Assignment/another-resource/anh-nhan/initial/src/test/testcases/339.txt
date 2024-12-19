@@ -1,0 +1,7 @@
+
+            Class Shape {
+                test(){
+                    t1 = (12+3)%x - 9 +. (New X(New y(), (a/b)).haha().hihi - hihi::$ok); 
+                }
+            }
+        

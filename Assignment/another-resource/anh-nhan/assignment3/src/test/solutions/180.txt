@@ -1,0 +1,1 @@
+-,+,false,P4366,;,*,,,l84bc,,,>,:,array,procedure,[,/,while,Va93a,boolean,and,integer,function,-,,,false,<EOF>

@@ -1,0 +1,18 @@
+ class Shape {
+            boolean type;
+            boolean retType(){
+                return this.type;
+            }
+            static void create(){
+                if (this.getType()) then return new Circle(5,this.arrayOfShape[0]);
+                else return new Rectangle();
+            }
+        }
+        class Main{
+            void _main_(){
+                Rectangle r;
+                r := new Rectangle(Shape.create(false, "HCN", 1,2), this);
+                r.printArea();
+            }
+        }
+        

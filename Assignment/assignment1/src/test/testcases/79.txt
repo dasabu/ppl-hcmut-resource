@@ -1,0 +1,6 @@
+class array_wrong_syntax_test_2{
+            void main(){
+                int[6] a;b;c;
+            }
+        }
+        

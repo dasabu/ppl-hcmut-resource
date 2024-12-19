@@ -1,0 +1,1 @@
+int;12,foo;60,(;47,);48,;;53,while;60,false;20,{;55,hard_work;60,(;47,);48,;;53,if;9,true;19,then;16,break;5,;;53,};56,<EOF>

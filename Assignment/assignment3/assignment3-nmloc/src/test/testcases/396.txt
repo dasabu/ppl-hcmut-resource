@@ -1,0 +1,6 @@
+class main {
+               int x(){
+break;break;break;break;break;break;break;break;break;
+
+               }
+           }

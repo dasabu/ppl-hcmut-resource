@@ -1,0 +1,13 @@
+
+            Class Shape {
+                test(){
+                    Foreach (i In a--b .. (e/f).b()[5] By 12){
+                        Foreach(j In 1 .. 4 By a){
+                            a = 9;
+                            c = !(c==b);
+                        }
+                        Continue;
+                    }
+                }
+            }
+        

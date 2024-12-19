@@ -1,0 +1,24 @@
+ class test_break_statement {
+            int breakstmt_checking_method_2(int ele){
+                for i:= 0 to arr.size() do {
+                    cursor := arr[i];
+                    if arr[i] == ele / this.atom() then break;
+                    else break;
+                    if arr[i] != ele * this.foo(l[this.size() / 2]) then {
+                        break;
+                    }
+                    else {
+                        cursor := arr[i] * ele;
+                        if (cursor == arr[i-1*this.atom()]) then {
+                            boolean x, y;
+                            x := 10;
+                            if (x % 2 == 0) then return x;
+                            else {
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        

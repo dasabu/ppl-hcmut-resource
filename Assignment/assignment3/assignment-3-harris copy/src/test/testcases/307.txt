@@ -1,0 +1,10 @@
+
+            class a {
+                int a;
+                static float b;
+                final int c = 1;
+                void tinh(int d,d){
+                
+                }
+            }
+            

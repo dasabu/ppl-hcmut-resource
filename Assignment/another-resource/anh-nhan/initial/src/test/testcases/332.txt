@@ -1,0 +1,7 @@
+
+            Class Program{
+                Val Babe : Boolean = (!b).c();
+                Var hel : Float = (2-(b/2)+-12)[5][9];
+                Var hey: Int = c::$hello;
+            }
+        

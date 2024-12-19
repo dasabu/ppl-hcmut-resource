@@ -1,0 +1,12 @@
+
+        class Test{
+            static void main(){
+                int x, y;
+                y := 1;
+                if y > max then max := i;
+                else continue;
+                y := i;
+                final int x, z = true;
+            }
+        }
+        

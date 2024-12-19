@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test5),[MethodDecl(Id(set),Instance,[param(Id(val),IntType)],IntType,Block([VarDecl(Id(x),IntType)],[AssignStmt(Id(x),UnaryOp(-,Id(val))),Return(Id(x))]))])])

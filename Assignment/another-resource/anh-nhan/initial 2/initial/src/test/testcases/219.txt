@@ -1,0 +1,37 @@
+
+            class Shape {
+                int b;
+                a thy, thy = 19;
+                string a = 5, b, c = 19;
+                a getNumOfShape() {
+                    Student Student = new Student();
+
+                    a := b + c;
+                    thy := (ngoc/quang)-dopo;
+                    x := (a[1]).hello;
+                    y := a.b().c.d();
+                    z := new Y().Hello();
+                }
+                Student Student = new Student();
+                void main(){
+                    if a[5] >= (X.hello) then{
+                            a := b && c;
+                    }
+                    else{
+                        for lehoe := a to 900-2+a[4] do{
+                                x := x - 1;
+                                if(a == b) then {
+                                    break;
+                                }
+                                else{
+                                    return;
+                                }
+                        }
+                            continue;
+                            if a.b[5] != 9 then
+                                return a.c[9];
+                    }
+                }
+            }
+
+        

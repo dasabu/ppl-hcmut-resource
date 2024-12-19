@@ -1,0 +1,6 @@
+
+class test {
+	void main() {
+	float a,b,c;
+	}
+}

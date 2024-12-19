@@ -1,0 +1,12 @@
+
+        Class Lake {
+        main(){
+                Var x: Int = 1;
+                If (x == 2){
+                    x = 3;
+                }
+                Else {
+                    x = "Error";
+                }
+        } }
+        

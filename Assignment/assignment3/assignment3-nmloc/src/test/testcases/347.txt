@@ -1,0 +1,14 @@
+
+        class Test {
+            void bar(){
+                if this.x % 2 == 1 then {
+                    this.isOdd := true;
+                    isEven := false;
+                }
+                else {
+                    isEven := true;
+                    this.isOdd := false;
+                }
+            }
+        }
+        

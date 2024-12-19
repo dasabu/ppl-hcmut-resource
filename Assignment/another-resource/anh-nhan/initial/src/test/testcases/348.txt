@@ -1,0 +1,12 @@
+
+            Class Shape {
+                test(){
+                    If ((a[5]).b()[4] == !True){
+                        Return a;
+                    }
+                    Else{
+                        Self.Donothing();
+                    }
+                }
+            }
+        

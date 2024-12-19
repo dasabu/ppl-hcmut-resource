@@ -1,0 +1,13 @@
+
+            class A {
+                int e;
+            }
+            class BKoolClass {
+                int x = 0;
+                static void main(){ 
+                    BKoolClass bk = new BKoolClass();
+                    bk.x := 25;
+                    io.writeInt(bk.x);   
+                }
+            }
+        

@@ -1,0 +1,8 @@
+
+            class A{
+                int a=5;
+                int foo(){
+                    int[5.2] t;
+                }
+            }
+            

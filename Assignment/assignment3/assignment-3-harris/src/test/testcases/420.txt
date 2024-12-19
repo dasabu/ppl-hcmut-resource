@@ -1,0 +1,19 @@
+
+        class main {
+            static int a;
+            int foo(){
+                int i;
+                main.a := 5;
+                for i := 0 to 5 do {
+                    final float c = 5.7;
+                    i := 5;
+                    break ;
+                    for i:= 3 to 5 do {
+                        i := io.readInt();
+                    }
+                    break;
+                }
+                continue;
+            }
+        }
+        

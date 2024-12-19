@@ -1,0 +1,21 @@
+
+            Class DongVat{
+                Var moitruongsong: moitruong;
+                Var thucan: loaithucan;
+                Keu(){
+                    Self.keu();
+                }
+            }
+            Class ConHeo : DongVat{
+                Constructor(){
+                    moitruongsong = "Ba Ria";
+                    thucan = "an hai";
+                }
+                Destructor(){
+                    Self.nhayvaolo();
+                }
+                Keu(){
+                    Return "lehoe";
+                }
+            }
+        

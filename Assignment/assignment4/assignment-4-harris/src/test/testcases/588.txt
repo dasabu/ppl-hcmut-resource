@@ -1,0 +1,15 @@
+
+            class BKoolClass {
+                int[4] total={0,0,0,0};
+                string name;
+            
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    bk.total[0] := 9;
+                    io.writeInt(bk.total[0]);
+                    io.writeInt(bk.total[1]);
+                    io.writeInt(bk.total[2]);
+                    io.writeInt(bk.total[3]);
+            }
+        }
+        

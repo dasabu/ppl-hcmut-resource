@@ -1,0 +1,13 @@
+
+            Class Program{
+                Main(){
+                    a = b + c;
+                    thy = -dopo + (ngoc - quang);
+                    x = (a[1]).hello;
+                    y = a.b().c.d();
+                    z = New Y().Hello();
+                    Var Student : Student = New Student();
+                }
+                Var Student : Student = New Student();
+            }
+        

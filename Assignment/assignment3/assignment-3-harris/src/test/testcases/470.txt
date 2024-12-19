@@ -1,0 +1,12 @@
+
+        class A extends B{
+            int  foo(){
+                return this.boo();
+                a := 5;
+            }
+        }
+        class  B{
+            int boo(){}
+        }
+
+        

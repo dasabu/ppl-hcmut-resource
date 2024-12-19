@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(a),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(x),ArrayType(5,ClassType(Id(Shape)))),VarDecl(Id(y),ClassType(Id(Shape)))],[]))])])

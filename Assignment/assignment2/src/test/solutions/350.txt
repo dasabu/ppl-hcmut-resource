@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(bar),Instance,[],BoolType,Block([],[For(Id(i),IntLit(10),IntLit(1),False,Block([],[])])]))])])

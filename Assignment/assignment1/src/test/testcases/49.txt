@@ -1,0 +1,6 @@
+class Random_Test {
+            int main(){
+                return 0;
+            }
+        }
+        

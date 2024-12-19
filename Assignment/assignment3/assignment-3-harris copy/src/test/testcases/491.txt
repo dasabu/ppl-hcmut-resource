@@ -1,0 +1,17 @@
+
+         class a {
+            int b;
+            void main(){
+                int a;
+                for a := this.b to 7 do {
+                    int m;
+                    {
+                        for a := 5 to 7 do {
+                            continue;
+                        }
+                        break;
+                    }
+                }
+            }
+        }
+        

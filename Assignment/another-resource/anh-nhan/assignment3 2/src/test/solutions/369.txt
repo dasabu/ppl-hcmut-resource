@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(a),[AttributeDecl(Instance,VarDecl(Id(s),ArrayType(123141412313123231231321123,ClassType(Id(Shape))),NewExpr(Id(Shape),[])))])])

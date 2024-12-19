@@ -1,0 +1,7 @@
+class test {
+            static final int x = (1 + 2 * 3 / 4);
+            final float y = x.bar_(1,2,3);
+            static string str = arr.foo(1);
+            final static boolean a = this.api;
+        }
+        

@@ -1,0 +1,19 @@
+
+            Class Program: bigpro{
+                main(){
+                }
+            }
+            Class Program{
+                main(){
+                }
+                main(a, b: Int){
+                }
+            }
+            Class hello{
+                main(){
+                }
+            }
+            Class Shape {
+                Val abc: Int =1;
+            }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Phong),[MethodDecl(Id(main),Instance,[],Block([AssignStmt(ArrayCell(Id(Ngan),[BinaryOp(-,BinaryOp(+,IntLit(1),IntLit(1)),IntLit(5))]),BinaryOp(-,BinaryOp(+,IntLit(1),IntLit(7)),IntLit(8))),AssignStmt(FieldAccess(Self(),Id(x)),BinaryOp(%,BinaryOp(*,IntLit(2),IntLit(5)),IntLit(3))),AssignStmt(FieldAccess(Id(Ngan),Id($YeuPhong)),FloatLit(1212.115))]))])])

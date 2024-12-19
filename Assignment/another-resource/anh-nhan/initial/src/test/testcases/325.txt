@@ -1,0 +1,24 @@
+
+            Class Shape {
+                Var $Student : Student = New Student();
+                Hello(){
+                        If(a >= b){
+                        }
+                        Elseif(a < b){
+                            Foreach(lehoe In a .. b By 1){
+                                x = x - 1;
+                                If(a == b){
+                                    Break;
+                                }
+                                Else{
+                                    Return;
+                                }
+                            }
+                            Continue;
+                            If(a.b[5] != 9){
+                                Return a.c[9];
+                            }
+                        }
+                }
+            }
+        

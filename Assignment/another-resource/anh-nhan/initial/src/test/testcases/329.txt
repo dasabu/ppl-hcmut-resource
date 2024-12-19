@@ -1,0 +1,16 @@
+
+            Class Rectangle: Shape {
+                getArea() {
+                    a = Array(
+                            Array(
+                                Array(1,2),
+                                Array(2,3)
+                            ),
+                            Array (
+                                Array(1,2),
+                                Array(2,3)
+                            )
+                        );
+                }
+            }
+        

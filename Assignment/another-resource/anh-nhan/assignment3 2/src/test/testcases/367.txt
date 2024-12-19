@@ -1,0 +1,6 @@
+
+            class a 
+            {
+                int[5] kori(int copy; Phuong isPhuong) {}
+            }
+        

@@ -1,0 +1,7 @@
+
+        class Test { }
+        class Child extends Test{
+            int x, y = this.a(-(1+2), true, "hehe" ^ "hihi"), a;
+            static boolean z, t = this.a[3], m = this.a, n;
+        }
+        

@@ -1,0 +1,14 @@
+
+         class x extends y{
+            int a,b;
+            final string c = "50";
+            static int m;
+            int foo(int a,v,b) {
+                x m;
+                return m.l[3];
+            }
+        }
+        class y {
+            x[5] l;
+        }
+        

@@ -1,0 +1,10 @@
+
+        class BKoolClass {
+            static int foo(){
+                return 100;
+            }
+            static void main(){
+                io.writeInt(BKoolClass.foo());
+            }
+        }
+        

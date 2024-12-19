@@ -1,0 +1,9 @@
+
+            class Shape extends Hhh {
+                he he(){
+                    a.c().c();
+                    (a[10]).c.b();
+                }
+            }
+
+        

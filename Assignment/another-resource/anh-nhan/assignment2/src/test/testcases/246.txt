@@ -1,0 +1,4 @@
+
+class test {
+	toi kiet suc lam roi;
+}

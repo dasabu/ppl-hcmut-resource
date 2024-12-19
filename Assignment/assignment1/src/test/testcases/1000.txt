@@ -1,0 +1,15 @@
+
+        class Test {
+            int main(){
+                int x = 10;
+                final boolean f = true;
+                for i := 1 to x do {
+                    if (i % 2 == 0) then this.c();
+                }
+                final int x = i;
+                boolean a = 1;
+                this.l[1] := x;
+                return x;
+            }
+        }
+        

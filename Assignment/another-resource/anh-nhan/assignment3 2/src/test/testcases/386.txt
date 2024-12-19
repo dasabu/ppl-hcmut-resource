@@ -1,0 +1,13 @@
+class Shape {
+                    static final int numOfShape = 0;
+                    final int immuAttribute = 0;
+                    float length,width;
+                    static int getNumOfShape() {
+                        return numOfShape;
+                    }
+                }
+                class Rectangle extends Shape {
+                    float getArea(){
+                    return this.length*this.width;
+                }
+                }

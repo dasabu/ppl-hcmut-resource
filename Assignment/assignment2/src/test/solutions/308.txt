@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(x),IntType),VarDecl(Id(y),IntType),ConstDecl(Id(x),IntType,BooleanLit(True)),ConstDecl(Id(z),IntType,BooleanLit(True))],[AssignStmt(Id(y),IntLit(1)),If(BinaryOp(>,Id(y),Id(max)),AssignStmt(Id(max),Id(i)),Continue),AssignStmt(Id(y),Id(i))]))])])

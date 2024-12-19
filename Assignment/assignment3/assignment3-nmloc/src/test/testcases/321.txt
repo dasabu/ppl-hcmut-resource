@@ -1,0 +1,7 @@
+
+        class Test {
+            final int x, y = 10, z = 2.0, t, w = !false;
+            final static float s = ((x + y) * 3) / z;
+            static final string a = "PPL", b, c = a ^ "isHard";
+        }
+        

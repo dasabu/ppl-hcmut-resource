@@ -1,0 +1,6 @@
+class main {
+               int x(){
+a.a.a.a.a.a.a.a.a.a.a.a := b.b.b.b.b.bb.d.b.b.b.b.b.b.b.b.l;
+
+               }
+           }

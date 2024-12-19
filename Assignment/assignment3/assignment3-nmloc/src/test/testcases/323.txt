@@ -1,0 +1,6 @@
+
+        class test extends parents{
+            static final Shape s = new Shape("Square");
+            final static Shape[10] s = {"Tri", "Rec"};
+        }
+        

@@ -1,0 +1,6 @@
+
+class test {
+	int foo() {
+		for i := 10+5-4*e+x downto 1 do break;
+	}
+}

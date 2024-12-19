@@ -1,0 +1,17 @@
+
+        class Test {
+            void foo(int n){
+                if n % 2 == 0 then return n;
+                else {
+                    for i := 0 to n do {
+                        if i == this.dp(n) then {
+                            i := this.arr[n];
+                            break;
+                        }
+                        else continue;
+                    }
+                }
+                return i * 10;
+            }
+        }
+        

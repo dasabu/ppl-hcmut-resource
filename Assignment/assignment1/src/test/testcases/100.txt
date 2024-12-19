@@ -1,0 +1,10 @@
+
+        class WAP {
+            static int a = 0;
+            boolean[10000] a, b;
+            bool a = true;
+            string func(int a, b, float c) {
+                return 0;
+            }
+        }
+        

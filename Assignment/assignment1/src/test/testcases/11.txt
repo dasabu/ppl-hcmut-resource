@@ -1,0 +1,6 @@
+ class smallest{
+            string x = "Hi!";
+            int a, b, c = 10;
+            final float c, d = 1e9, e,f = 1E-9;
+        }
+        

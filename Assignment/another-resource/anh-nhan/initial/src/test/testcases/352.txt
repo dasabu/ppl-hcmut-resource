@@ -1,0 +1,18 @@
+
+            Class Shape {
+                test(){
+                    Var a : Int = 0B0;
+                    If (a == 0x0){
+                        Foreach (i In i .. j){
+                            If (i - j == 12){
+                                a = a + 2;
+                                Return;
+                            }
+                            Else{
+                                Continue;
+                            }
+                        }
+                    }
+                }
+            }
+        

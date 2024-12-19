@@ -1,0 +1,1 @@
+Type Mismatch In Expression: FieldAccess(CallExpr(Selferal(),Id(foo),[]),Id(a))

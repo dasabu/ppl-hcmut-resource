@@ -1,0 +1,8 @@
+
+        class WAP {
+            void func(int a,b) {
+                a.a()[5] := 5;
+                return a == b % 2;
+            }
+        }
+        

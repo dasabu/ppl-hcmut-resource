@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(sum1),IntType,BinaryOp(+,IntLit(100),IntLit(50))),VarDecl(Id(sum2),IntType,BinaryOp(+,Id(sum1),IntLit(250))),VarDecl(Id(sum3),IntType,BinaryOp(+,Id(sum2),Id(sum2)))],[Call(Id(io),Id(writeInt),[Id(sum3)])]))])])

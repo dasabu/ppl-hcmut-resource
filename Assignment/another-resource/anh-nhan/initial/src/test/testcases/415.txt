@@ -1,0 +1,5 @@
+
+        Class A {}
+        Class B : C {}
+        Class A {}
+        

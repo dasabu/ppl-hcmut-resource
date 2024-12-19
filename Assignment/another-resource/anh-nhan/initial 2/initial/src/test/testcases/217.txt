@@ -1,0 +1,24 @@
+
+            class Shape {
+                int b;
+                a thy, thy = 19;
+                string a = 5, b, c = 19;
+                a getNumOfShape() {
+                    Student Student = new Student();
+
+                    a := b + c;
+                    thy := (ngoc/quang)-dopo;
+                    x := (a[1]).hello;
+                    y := a.b().c.d();
+                    z := new Y().Hello();
+                }
+                void main(){
+                    int b;
+                    b:=c;
+                    
+                }
+                string a = 5, b, c = 19;
+                float test(int a, b, c; float d; string thy; thy thy, thy, thy){}
+            }
+
+        

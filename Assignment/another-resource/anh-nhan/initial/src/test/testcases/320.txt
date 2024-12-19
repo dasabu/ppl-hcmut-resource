@@ -1,0 +1,16 @@
+
+            Class B{
+                main(){
+                    Var x, y, z, t: Array[Int, 5];
+                }
+            }
+            Class Program {
+                Var d: B = New B();
+                main(t: Array[Int, 5]){
+                    Return t[0];
+                }
+                main(){
+                    Return;
+                }
+            }
+        

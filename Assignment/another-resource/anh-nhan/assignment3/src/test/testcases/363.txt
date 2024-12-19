@@ -1,0 +1,10 @@
+
+        class test 
+        {
+            void main() 
+            {
+                int[5] Kori = {1,2,3,4,5};
+                Kori[5] := 7;
+                this.print(Kori, 0, 4);
+            }
+        }

@@ -1,0 +1,6 @@
+
+class test {
+	static void main() {
+		int a;
+	}
+}

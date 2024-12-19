@@ -1,0 +1,6 @@
+
+class test {
+	int foo() {
+		ai do lam on cuu t voi!!!!;
+	}
+}

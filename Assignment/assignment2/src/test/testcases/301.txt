@@ -1,0 +1,7 @@
+class Shape{
+            int main(){
+                int x, y;
+                final float z, y = 1e9, a = 1.0;
+                string abc, xyz = 1;
+            }
+        }

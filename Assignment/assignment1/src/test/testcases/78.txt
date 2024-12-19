@@ -1,0 +1,6 @@
+class array_wrong_syntax_test_1{
+            void main(){
+                int[5] arr;
+            }
+        }
+        

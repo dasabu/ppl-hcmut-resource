@@ -1,0 +1,3 @@
+class Understandable extends Have_A_Nice_Day {
+                void Void() {}
+            }

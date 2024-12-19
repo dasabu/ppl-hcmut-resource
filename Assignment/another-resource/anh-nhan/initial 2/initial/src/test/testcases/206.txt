@@ -1,0 +1,15 @@
+
+            class Shape {
+                int b;
+                string a = 5, b, c = 19;
+                a getNumOfShape() {
+                    a := "Mai Thy";
+                }
+                void main(){
+                    int b = "thy";
+                    b := 12;
+                    return;
+                }
+                string a = 5, b, c = 19;
+            }
+        

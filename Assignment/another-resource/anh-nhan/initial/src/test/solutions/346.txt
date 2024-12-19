@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([ConstDecl(Id(a),IntType,None),For(Id(i),IntLit(1),IntLit(100),IntLit(1),Block([Call(Self(),Id(printf),[StringLit(enter the number:)]),If(BinaryOp(==,Id(self),IntLit(0)),Block([Break]))])]),Return(IntLit(0))]))])])

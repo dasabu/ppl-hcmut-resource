@@ -1,0 +1,7 @@
+ class Shape{}
+        class test_create_object{
+            Shape c, _c_, C__ = new Circle(), RrR, ___r = new Rectangle(), s, sH;
+            static Shape shapeeeee;
+            final static Shape Sh = new Square();
+        }
+        

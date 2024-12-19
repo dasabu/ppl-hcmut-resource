@@ -1,0 +1,12 @@
+class A {
+            A a;
+            void foo(B b, a) {
+                float c;
+            }
+        }
+        class B {
+            A a;
+            void foo(A a, b) {
+                C c;
+            }
+        }

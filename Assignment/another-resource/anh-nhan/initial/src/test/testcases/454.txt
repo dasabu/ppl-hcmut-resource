@@ -1,0 +1,15 @@
+
+            Class A{
+
+                Constructor(a:Int;b:Float){}
+            }
+
+            Class Program {
+
+                
+                main(){
+                Var a:A=New A(2,3);
+                Var b:A=New A(2,3.0);
+                Var c:A=New A(2.0,3);}
+             }
+        

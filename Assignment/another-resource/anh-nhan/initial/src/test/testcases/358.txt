@@ -1,0 +1,19 @@
+
+            Class Shape {
+                Tinhtong_khoang(start, end: Int){
+                    If (start < end){
+                        Return "Bye";
+                    }
+                    Elseif(start == end){
+                        Return start;
+                    }
+                    Else{
+                        Var a: Int = 0;
+                        Foreach(i In start .. end By 1){
+                            a = a + i;
+                        }
+                        Return a;
+                    }
+                }
+            }
+        

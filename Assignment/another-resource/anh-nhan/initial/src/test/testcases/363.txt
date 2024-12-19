@@ -1,0 +1,19 @@
+
+            Class VatNuoi{
+                Var giatien : Int;
+                Choan(){
+                    chunhan.nauan();
+                    chunhan.choan();
+                }
+                Chamsoc(){
+                    chunhan.choditam();
+                    chunhan.datdidao();
+                }
+            }
+            Class conmeo: VatNuoi{
+                Anhai(){
+                    self.an();
+                    self.ngu(cangay);
+                }
+            }
+        

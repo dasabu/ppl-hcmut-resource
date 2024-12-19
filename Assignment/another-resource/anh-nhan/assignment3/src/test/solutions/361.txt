@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(kori),Id(phuong),[MethodDecl(Id(main),Static,[],VoidType,Block([],[Call(Self(),Id(ok),[StringLit(void)])]))])])

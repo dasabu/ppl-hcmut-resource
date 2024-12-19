@@ -1,0 +1,12 @@
+1-5: test keywords
+6-10: test identifiers
+11-15: test operators
+16-20: integer literal
+21-30: float literal
+31-35: boolean literal
+36-45: string literal
+45-50: ERROR_CHAR
+50-55: UNCLOSE_STRING
+56-60: test comment 
+61-65: ILLEGAL_ESCAPE
+71-100: mix 

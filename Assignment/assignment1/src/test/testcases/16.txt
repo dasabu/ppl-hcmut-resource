@@ -1,0 +1,10 @@
+class testingConstructor {
+            testingConstructor(int x,y ; boolean a; string h; float g,h,j){
+                # testing line comment 
+                
+                /* testing block comment 
+                bkool by da
+                */
+            }       
+        }
+        

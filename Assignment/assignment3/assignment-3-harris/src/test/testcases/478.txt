@@ -1,0 +1,12 @@
+
+        class hello {
+            static int foo;
+            int main(){
+                hello x;
+                int a = hello.foo;
+                
+                int hello;
+                int b = x.inc;
+            }
+        }
+        

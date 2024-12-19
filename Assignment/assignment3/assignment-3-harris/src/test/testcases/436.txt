@@ -1,0 +1,9 @@
+
+        class X{
+            static final int k = 8;
+            int foo(){
+                int[5] a;
+                a := {1.2,3,5,6};
+            }
+        }
+        

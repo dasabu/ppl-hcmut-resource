@@ -1,0 +1,18 @@
+
+            class Shape extends Hhh {
+                int b(){
+                    a.b[3] := 12 && 4 - 15 + (12--a);
+                    a.b(12+3, !b, new X()).bruh := 12;
+                    a.c := 19;
+                }
+                Hhh(int a, b){
+                    (aimabiet.jztr[5]).a := 12;
+                    (a.b[9-2+-12]).b();
+                    /* comment cho vui ne */
+                    ## a = b; cai nay sai ne 
+                    x := "hello hihi \t alo";
+                }
+                
+            }
+
+        

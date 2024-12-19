@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./target/main/d96/parser",
+        "./src/main/d96/utils",
+        "./src/main/d96/checker",
+        "./src/test"
+    ]
+}

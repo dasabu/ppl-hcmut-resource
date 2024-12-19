@@ -1,0 +1,15 @@
+
+        class x extends A{
+            final int a = this.x + this.g;
+            final int x = 1;
+            final int y = 1 + 1 + this.a*this.x;
+            int foo(int a,b; float c){
+                int j;
+                final int[3] m = {1,2,3};
+                m[3] := 3;
+            }
+        }
+        class A{
+            final int g = 0;
+        }
+        

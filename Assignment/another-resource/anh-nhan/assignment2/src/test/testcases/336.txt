@@ -1,0 +1,46 @@
+class Animal {
+	void move(){}
+	void eat(){}
+	void label() {
+		System.out.println("Animal's data:");
+	}
+}
+class Bird extends Animal {
+
+	void move() {
+		 System.out.println("Moves by flying.");
+     }
+	void eat() {
+		 System.out.println("Eats birdfood.");
+	}	 
+}
+
+class Fish extends Animal {
+		 void move() {
+			 System.out.println("Moves by swimming.");
+	     }
+		 void eat() {
+			 System.out.println("Eats seafood.");
+		 }
+}
+class TestBird {
+	void main() {
+		Animal myBird;
+		myBird := new Bird();
+
+		myBird.label();
+		myBird.move();
+		myBird.eat();
+	}
+}
+
+class TestFish {
+	void main() {
+		Animal myFish;
+		myFish := new Fish();
+
+		myFish.label();
+		myFish.move();
+		myFish.eat();
+	}
+}

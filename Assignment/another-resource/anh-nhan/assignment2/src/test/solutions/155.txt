@@ -1,0 +1,1 @@
+procedure;60,foo;60,(;47,);48,;;53,begin;60,with;60,a;60,:;54,string;15,do;8,ok;60,(;47,);48,;;53,end;60,<EOF>

@@ -1,0 +1,10 @@
+
+class test {
+	int foo(){
+		int a,b;
+		float c,d;
+		string e,f;
+		boolean k,h;
+		return a;
+	}
+}

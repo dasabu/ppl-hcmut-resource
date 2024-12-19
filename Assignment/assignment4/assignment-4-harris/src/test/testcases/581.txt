@@ -1,0 +1,13 @@
+
+        class BKoolClass {
+            int att=20;
+            void foo(){
+                this.att := 30;
+            }
+            static void main(){
+                BKoolClass bk = new BKoolClass();
+                bk.foo();
+                io.writeInt(bk.att);
+            }
+        }
+        

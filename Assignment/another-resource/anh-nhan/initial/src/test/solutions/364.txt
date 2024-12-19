@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Banhkem),[AttributeDecl(Instance,VarDecl(Id(giatien),IntType)),MethodDecl(Id(Tanggia),Instance,[],Block([AssignStmt(Id(giatien),BinaryOp(+,Id(giatien),IntLit(10)))])),MethodDecl(Id(Lambanh),Instance,[],Block([AssignStmt(Id(bot),Id(botmi)),AssignStmt(Id(kem),Id(kembo)),Call(Id(tho),Id(quaybot),[Id(bot)]),Call(Id(tho),Id(trangtri),[Id(kem)])]))])])

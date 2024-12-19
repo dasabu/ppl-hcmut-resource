@@ -1,0 +1,13 @@
+
+            Class Shape {
+                Var $b, c, $d : Huhu = a.b() + b.x, 12, 01_23;
+                Test(){
+                    a = 12;
+                    $c = 16;
+                    a.b().e[5] = 19;
+                    New X().b().e[3] = 20;
+                    b::$c = 21;
+                    ((a+b).c[5]).d = Array(Array(15-9, Array(2,3,12)), Array(0,1));
+                }
+            }
+        

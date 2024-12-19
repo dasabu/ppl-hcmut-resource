@@ -1,0 +1,1 @@
+boolean;4,int;12,float;13,void;21,string;15,if;9,else;10,then;16,new;14,break;5,continue;7,to;26,downto;27,for;17,return;18,true;19,false;20,class;6,extends;11,static;25,final;24,nil;22,this;23,<EOF>

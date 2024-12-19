@@ -1,0 +1,7 @@
+
+          class hello {
+          a a = a + a - a ;
+          }
+          class goobye {
+          }
+          

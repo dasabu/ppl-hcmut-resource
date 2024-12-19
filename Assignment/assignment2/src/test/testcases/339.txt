@@ -1,0 +1,7 @@
+
+        class Test{
+            static void test(){
+                this.x[0] := 1;
+            }
+        }
+        

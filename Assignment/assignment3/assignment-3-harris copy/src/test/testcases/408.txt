@@ -1,0 +1,10 @@
+
+        class Test {
+            int foo(int a){
+                {
+                    a := 0;
+                    b := 9;
+                }
+            }
+        }
+        

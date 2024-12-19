@@ -1,0 +1,13 @@
+
+class test {
+	int foo() {
+		this.isCkChipu();
+			this.isCkChipu();
+				this.isCkChipu();
+					this.isCkChipu();
+				this.isCkChipu();
+			this.isCkChipu();
+		this.isCkChipu();
+	this.isCkChipu();
+	}
+}

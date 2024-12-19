@@ -1,0 +1,1 @@
+boolean,int,float,void,string,if,else,then,new,break,continue,to,downto,for,return,true,false,class,extends,static,final,nil,this,<EOF>

@@ -1,0 +1,14 @@
+
+            Class Shape {
+                test(){
+                    b = 2;
+                    c = True;
+                    d = False;
+                    e = f;
+                    a = tRue;
+                    g = 90_3.E+2;
+                    a2 = (9+15 / (--29 + 3))[6];
+
+                }
+            }
+        

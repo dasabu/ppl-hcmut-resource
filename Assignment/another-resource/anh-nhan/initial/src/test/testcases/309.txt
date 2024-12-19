@@ -1,0 +1,13 @@
+
+            Class Program{
+                main(){
+                    Val My1stCons,My2ndCons: Int ;
+                    Var My1stVar: Float;
+                    Var trueVar,falseVar:Boolean;
+                    Val classVal: abc;
+                    Val stringVal:String;
+                    Var classVar: abc;
+                    Var arrVar: Array[Int,2];
+                }
+            }
+        

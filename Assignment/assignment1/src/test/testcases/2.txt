@@ -1,0 +1,7 @@
+class Main {
+            int x, y, z;
+            boolean a,b,c = true, d,e,f = false, k,j,m;
+            static float m,n;
+            static string a,b,c = 21, o,i,w = 12;
+            static int _l = 8, q, r;
+        }

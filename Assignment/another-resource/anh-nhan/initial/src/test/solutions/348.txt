@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(test),Instance,[],Block([If(BinaryOp(==,ArrayCell(CallExpr(ArrayCell(Id(a),[IntLit(5)]),Id(b),[]),[IntLit(4)]),UnaryOp(!,BooleanLit(True))),Block([Return(Id(a))]),Block([Call(Self(),Id(Donothing),[])]))]))])])

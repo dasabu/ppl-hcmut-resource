@@ -1,0 +1,7 @@
+
+        class ArrayTest {
+            final int[5] arr = {1,2,3,4,5};
+            static float[1] ar = {1.0,2e2};
+            Shape[10] sh;
+        }
+        

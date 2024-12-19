@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([],[Call(Id(io),Id(writeBool),[CallExpr(Id(BKoolClass),Id(isEqual),[IntLit(1),IntLit(1)])])])),MethodDecl(Id(isEqual),Static,[param(Id(a),IntType),param(Id(b),IntType)],BoolType,Block([],[If(BinaryOp(>,IntLit(1),Id(b)),Return(BooleanLit(True)),Return(BooleanLit(False)))]))])])

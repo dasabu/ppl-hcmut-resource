@@ -1,0 +1,17 @@
+
+        class x extends y{
+            int a,b;
+            int foo() {
+                x m; 
+                m.d := 6;
+            }
+            void main() {
+                x a;
+                final int b = 1;
+                b := a.foo();
+            }
+        }
+        class y {
+            int d;
+        }
+        

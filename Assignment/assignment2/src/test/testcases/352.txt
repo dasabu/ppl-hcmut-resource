@@ -1,0 +1,13 @@
+
+        class Test {
+            int foo(){
+                for i := this.size downto 0 do {
+                    if i % 2 == 0 then i := i + 1;
+                    else {
+                        if i % 3 == 0 then i := this.arr[i];
+                        else i := this.getValue(i);
+                    }
+                }
+            }
+        }
+        

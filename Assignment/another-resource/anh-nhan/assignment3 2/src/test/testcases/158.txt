@@ -1,0 +1,5 @@
+
+procedure foo();
+begin
+    a := a[d < y(5 > 3) + 3 * n(12)] := 5[3] := 3[2] := b;
+end

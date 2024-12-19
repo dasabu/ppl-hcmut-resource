@@ -1,0 +1,10 @@
+
+        class BKoolClass {
+            static void foo(){
+                io.writeFloat(2.51);
+            }
+            static void main(){
+                BKoolClass.foo();
+            }
+        }
+        

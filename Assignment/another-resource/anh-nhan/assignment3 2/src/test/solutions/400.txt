@@ -1,0 +1,1 @@
+Type Mismatch In Statement: AttributeDecl(Instance,ConstDecl(Id(x),IntType,FloatLit(10.0)))

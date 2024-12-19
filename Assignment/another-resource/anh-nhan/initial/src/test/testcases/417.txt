@@ -1,0 +1,13 @@
+
+            Class Program {
+                main(){
+                    Var b: Int;
+                    Val a: Int=1;
+                    Foreach (a In b ..  2){
+                        Break;
+                        
+                    }
+                    Continue;
+                }
+             }
+        

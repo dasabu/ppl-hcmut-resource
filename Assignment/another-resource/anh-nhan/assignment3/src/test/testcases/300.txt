@@ -1,0 +1,8 @@
+
+class test {
+	int foo(){
+    if a == 1 {
+        break;
+    }
+	}
+}

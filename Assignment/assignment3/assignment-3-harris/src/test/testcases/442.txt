@@ -1,0 +1,23 @@
+
+        class X{
+            int main(){
+                int i;
+                float a;
+                boolean b;
+                string s;
+                i := io.readInt();
+                io.writeInt(i);
+                io.writeIntLn(i);
+                a := io.readFloat();
+                io.writeFloat(a);
+                io.writeFloatLn(a);
+                b := io.readBool();
+                io.writeBool(b);
+                io.writeBoolLn(b);
+                s := io.readStr();
+                io.writeStr(s);
+                io.writeStrLn(s);
+                continue;
+            }
+        }
+        

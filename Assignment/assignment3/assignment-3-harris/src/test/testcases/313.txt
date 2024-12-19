@@ -1,0 +1,12 @@
+
+            class a extends b {
+                int a;
+                static float b;
+                final int c = 1;
+                void main(){
+                    aa := 1;
+                }
+            }
+            class b{
+            }
+            

@@ -1,0 +1,14 @@
+class testParser{
+            /* Choi can, choi co, choi ke
+            Khong bang mot phut choi em ca doi
+            */
+            void doNothing(){
+                return x.l[3];
+            }
+        }
+        class MaIn_mAiN___{
+            void mAiNNNN(){
+                return testParser.doNothing(this.foo());
+            }
+        }
+        

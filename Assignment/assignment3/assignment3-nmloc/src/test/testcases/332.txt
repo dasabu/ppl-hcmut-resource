@@ -1,0 +1,7 @@
+
+        class Test{
+            Shape bar(){
+                final int x = 10;
+            }
+        }
+        

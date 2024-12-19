@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(a),[MethodDecl(Id(kori),Instance,[param(Id(copy),IntType),param(Id(isPhuong),ClassType(Id(Phuong)))],ArrayType(5,IntType),Block([],[]))])])

@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/main/bkool/utils",
+        "./target/main/bkool/parser"
+    ]
+}

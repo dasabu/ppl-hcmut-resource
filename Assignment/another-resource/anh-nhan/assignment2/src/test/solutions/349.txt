@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id("<init>"),Instance,[],Block([VarDecl(Id(width),IntType),VarDecl(Id(height),IntType),VarDecl(Id(pi),FloatType,FloatLit(3.14))],[]))])])

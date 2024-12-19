@@ -1,0 +1,1 @@
++,-,integer,N0699,+,>,then,L09e7,>=,real,>,>=,,,],<,>,*,eb142,>,integer,/,while,boolean,procedure,false,<EOF>

@@ -1,0 +1,8 @@
+
+        Class Program {
+        main(){
+                Val x,y: String = "String", "a";
+                x = "String1";
+                y = "String2";
+        } }
+        

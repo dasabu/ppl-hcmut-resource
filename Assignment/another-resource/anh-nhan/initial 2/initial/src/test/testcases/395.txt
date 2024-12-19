@@ -1,0 +1,9 @@
+class test {
+                    Shape nah;
+                    test() {
+                        Shape s;
+                        int x;
+                        float y;
+                    }
+
+            }

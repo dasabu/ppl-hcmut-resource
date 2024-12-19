@@ -1,0 +1,8 @@
+
+            class Shape {
+                a getNumOfShape() {
+                    a := "Mai Thy";
+                }
+                void main(){}
+            }
+        

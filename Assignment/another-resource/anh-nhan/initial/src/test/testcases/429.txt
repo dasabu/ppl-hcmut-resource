@@ -1,0 +1,5 @@
+Class A {
+                Var a: Int;
+                Var b: Float;
+                Val a: Float;
+             }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(z),IntType,CallExpr(Id(BKoolClass),Id(myMethod),[IntLit(5),IntLit(3)]))],[Call(Id(io),Id(writeInt),[Id(z)])])),MethodDecl(Id(myMethod),Static,[param(Id(x),IntType),param(Id(y),IntType)],IntType,Block([],[Return(BinaryOp(+,Id(y),Id(x)))]))])])

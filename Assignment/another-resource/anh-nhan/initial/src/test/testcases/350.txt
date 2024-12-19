@@ -1,0 +1,10 @@
+
+            Class Phong
+            {
+                main() {
+                    Ngan[1+1-5] = 1+7-8;
+                    Self.x = 2*5%3;
+                    Ngan::$YeuPhong = 1212.115;
+                }
+            }
+        

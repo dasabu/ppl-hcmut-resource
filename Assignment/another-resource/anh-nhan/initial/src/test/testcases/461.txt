@@ -1,0 +1,7 @@
+
+            Class Program {
+                main(){
+                    Var a:Array[Int,2]=Array(1);
+                }
+             }
+        

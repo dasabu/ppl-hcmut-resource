@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(strin),Instance,[],StringType,Block([],[AssignStmt(ArrayCell(Id(a),IntLit(897)),IntLit(0))]))]),ClassDecl(Id(goobye),[])])

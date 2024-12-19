@@ -1,0 +1,21 @@
+
+            Class A {
+                method1(){
+                    {
+                        Return 1;
+                    }
+                    {
+                        Return 2.5;
+                    }
+                    {
+                        Return 3;
+                    }
+                }
+            }
+            Class Program {
+                main(){
+                    Var b: A;
+                    Var a: Int = b.method1();
+                }
+             }
+        

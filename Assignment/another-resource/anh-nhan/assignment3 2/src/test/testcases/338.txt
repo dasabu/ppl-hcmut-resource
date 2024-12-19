@@ -1,0 +1,5 @@
+class test {
+	int foo(int a){
+		a :=5 ;
+	}
+}

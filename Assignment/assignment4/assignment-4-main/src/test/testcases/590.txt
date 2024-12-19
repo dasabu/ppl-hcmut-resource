@@ -1,0 +1,17 @@
+
+            class BKoolClass {
+                int[4] total={0,0,0,0};
+                void change(int i){
+                    this.total[i] := 7;
+                }
+            
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    bk.change(2);
+                    io.writeInt(bk.total[0]);
+                    io.writeInt(bk.total[1]);
+                    io.writeInt(bk.total[2]);
+                    io.writeInt(bk.total[3]);
+                }
+            }
+        

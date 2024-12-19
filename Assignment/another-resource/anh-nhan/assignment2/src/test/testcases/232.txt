@@ -1,0 +1,12 @@
+
+class test {
+	int foo() {
+		if a == 1 then continue;
+        if b > 3 then c := 5;
+        else d := 1;
+        if e < 4 then break;
+     else
+        if h > 5 then c :=1; else c :=2;
+        g := 5;
+	}
+}

@@ -1,0 +1,7 @@
+
+        class Test {
+            boolean bar(){
+                for i := 10 downto 1 do {}
+            }
+        }
+        

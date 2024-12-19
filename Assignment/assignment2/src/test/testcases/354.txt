@@ -1,0 +1,17 @@
+
+        class Test {
+            void foo(){
+                for i := 1 to 10 do {
+                    j := i * 10;
+                    if j % 3 == true then {
+                        for j := j downto 3 do {
+                            s := new Shape();
+                        }
+                    }
+                    else {
+                        s := nil;
+                    }
+                }
+            }
+        }
+        

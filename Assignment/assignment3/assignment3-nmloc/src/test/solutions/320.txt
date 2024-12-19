@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[AttributeDecl(Static,VarDecl(Id(s),ArrayType(10,ClassType(Id(Shape))))),AttributeDecl(Instance,VarDecl(Id(S),ArrayType(2,ClassType(Id(Shape))),[IntLit(2),FloatLit(3.0)])),AttributeDecl(Instance,VarDecl(Id(sh),ArrayType(2,ClassType(Id(Shape))))),AttributeDecl(Instance,VarDecl(Id(as),ArrayType(2,ClassType(Id(Shape)))))])])

@@ -1,0 +1,15 @@
+
+        class A{
+            int a;
+        }
+        class B extends A{
+            void foo(){
+                A x; B y; C z;
+                y.a := x.a;
+                y.a := z.m;
+            }
+        }
+        class C{
+            int m;
+        }
+        

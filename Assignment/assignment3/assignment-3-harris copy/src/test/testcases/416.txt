@@ -1,0 +1,5 @@
+
+        class main extends B{}
+        class B{}
+        class B extends C{}
+        

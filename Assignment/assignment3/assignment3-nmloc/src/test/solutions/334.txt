@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(bar),Static,[],VoidType,Block([ConstDecl(Id(x),StringType,StringLit(PPL)),ConstDecl(Id(y),StringType,StringLit(DA)),ConstDecl(Id(z),StringType,StringLit(DA))],[]))])])

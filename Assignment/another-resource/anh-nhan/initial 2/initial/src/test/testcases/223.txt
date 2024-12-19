@@ -1,0 +1,8 @@
+
+            class Shape extends Hhh {
+                int b(){
+                    return (a[b[3]]).c();
+                }
+            }
+
+        

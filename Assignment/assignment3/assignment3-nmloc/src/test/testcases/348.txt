@@ -1,0 +1,12 @@
+
+        class Test {
+            int foo(){
+                this.x.arr[1 + 2] := this.x.get();
+                if x.arr == 1 then this.x.arr[0] := x.arr;
+                else {
+                    if this.x.arr == "PPL" then this.x.arr[0] := x.arr;
+                    this.arr := x.arr;
+                }
+            }
+        }
+        

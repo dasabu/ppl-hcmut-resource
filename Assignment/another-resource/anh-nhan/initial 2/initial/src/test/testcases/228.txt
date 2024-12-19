@@ -1,0 +1,11 @@
+
+            class Shape extends Hhh {
+                int b(){
+                    a.b[3] := 12 && 4 - 15 + (12--a);
+                    a.b(12+3, !b, new X()).bruh := 12;
+                    a.c := 19;
+                }
+                a b = new b(x, (100/4)-2, new c(Hello,1));
+            }
+
+        

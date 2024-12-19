@@ -1,0 +1,9 @@
+
+        class Test { 
+            int foo(){
+                int x = 10, a = 1, c;
+                float y;
+                string t = "PPL";
+            }
+        }
+        

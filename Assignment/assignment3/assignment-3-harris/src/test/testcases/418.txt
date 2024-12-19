@@ -1,0 +1,15 @@
+
+        class main extends B{
+            static int a;
+            main k;
+            final int n = this.n;
+            int ma() {
+                final int x = x;
+                int a = a;
+                continue;
+            }
+        }
+        class B{
+            int b;
+        }
+        

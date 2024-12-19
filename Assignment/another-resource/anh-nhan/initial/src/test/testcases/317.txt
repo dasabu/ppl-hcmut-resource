@@ -1,0 +1,9 @@
+
+            Class Phong
+            {
+                main() {
+                    a = x::$y.z.t;
+                    b = (x + 1 ).y.z.t;
+                }
+            }
+        

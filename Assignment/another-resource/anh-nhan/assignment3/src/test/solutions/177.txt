@@ -1,0 +1,1 @@
+-,[,string,O902e,boolean,,,and,y680b,string,+,>,,,else,<,>,else,=,a5cbe,:=,return,end,var,boolean,[,+,<EOF>

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[AttributeDecl(Instance,VarDecl(Id(a),ClassType(Id(a)),UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,Id(a))))))))))))))))))))]),ClassDecl(Id(goobye),[])])

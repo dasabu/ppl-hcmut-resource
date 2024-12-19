@@ -1,0 +1,14 @@
+
+            Class Banhkem{
+                Var giatien: Int;
+                Tanggia(){
+                    giatien = giatien + 10;
+                }
+                Lambanh(){
+                    bot = botmi;
+                    kem = kembo;
+                    tho.quaybot(bot);
+                    tho.trangtri(kem);
+                }
+            }
+        

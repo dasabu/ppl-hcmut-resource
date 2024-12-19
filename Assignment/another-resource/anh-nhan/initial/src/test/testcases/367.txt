@@ -1,0 +1,11 @@
+
+            Class Banhtrangtron{
+                Val Topping : Array[String, 5] = Array("Tom", "Hanh", "Muoi ot", "Sa te", "Toi phi");
+                Var Banhtrang: Banhtrang;
+                Tron(){
+                    chuquan.laybanhtrang();
+                    chuquan.botopping(Topping);
+                    chuquan.baogia();
+                }
+            }
+        

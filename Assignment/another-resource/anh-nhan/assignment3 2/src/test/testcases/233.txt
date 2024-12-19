@@ -1,0 +1,9 @@
+
+class test {
+	int foo() {
+		for i := 1 to 100 do {
+		return z;
+		Intarray[5] := i + 1;
+		}
+	}
+}

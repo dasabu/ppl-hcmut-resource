@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(person),[AttributeDecl(Instance,VarDecl(Id(name),StringType)),AttributeDecl(Instance,VarDecl(Id(id),IntType)),MethodDecl(Id(getdetails),Instance,[],VoidType,Block([],[]))]),ClassDecl(Id(Example),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(p1),ClassType(Id(person)))],[Call(Id(p1),Id(getdetails),[])]))])])

@@ -1,0 +1,10 @@
+
+        class main{
+            final int k = 8;
+            B x = nil;
+            int c = this.x.e;
+        }
+        class B{
+            int e;
+        }
+        

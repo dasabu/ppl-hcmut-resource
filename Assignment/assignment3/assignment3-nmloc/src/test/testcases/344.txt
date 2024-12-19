@@ -1,0 +1,7 @@
+
+        class Test {
+            void foo(){
+                if this.x % 2 == 1 then isEven := false;
+            }
+        }
+        

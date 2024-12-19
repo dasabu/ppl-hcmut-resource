@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(bar),Instance,[],ClassType(Id(Shape)),Block([ConstDecl(Id(x),IntType,IntLit(10))],[]))])])

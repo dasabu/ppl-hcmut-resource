@@ -1,0 +1,9 @@
+
+            class a {
+                final static int r=4;
+                int main(){
+                    int[4] t;
+                    t := {1,2,"r"};
+                }
+            }                
+            

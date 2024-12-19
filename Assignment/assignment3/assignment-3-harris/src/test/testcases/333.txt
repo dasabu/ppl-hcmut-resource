@@ -1,0 +1,15 @@
+class A {
+            A a;
+            B foo(B b, a) {
+                string[3] c;
+                B.hihi();
+                c := { "ngoductri", "12", "sana"};
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                C c1;
+            }
+            int[3] hihi() {}
+        }

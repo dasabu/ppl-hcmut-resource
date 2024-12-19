@@ -1,0 +1,9 @@
+
+            class A{
+                static void d(string o) {
+                    int a, c, d;
+                    break;
+                }
+                
+            }
+            

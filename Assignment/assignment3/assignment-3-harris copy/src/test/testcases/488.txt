@@ -1,0 +1,5 @@
+
+         class a {
+            final int x = 1.5\2;
+        }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(x),IntType,IntLit(20)),VarDecl(Id(y),IntType,IntLit(18))],[If(BinaryOp(>,Id(x),Id(y)),Call(Id(io),Id(writeStr),[StringLit("x is greater than y")]))]))])])

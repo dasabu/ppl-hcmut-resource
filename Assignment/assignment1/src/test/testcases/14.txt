@@ -1,0 +1,7 @@
+class testingConstructor {
+            testingConstructor(){
+                int x, y;
+                final float x = 10, y,z = 100, t,f,g = 1;
+            }        
+        }
+        

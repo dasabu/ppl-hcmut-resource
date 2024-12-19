@@ -1,0 +1,6 @@
+class Random_Test {
+            constructorTesting(Student x){
+                if (x.name == "Duy Anh") then return "Le " ^ x.name;
+            }
+        }
+        

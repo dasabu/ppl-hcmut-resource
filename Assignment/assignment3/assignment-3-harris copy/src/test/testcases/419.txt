@@ -1,0 +1,6 @@
+
+        class main {
+            static int a;
+            int c = main.k;
+        }
+        

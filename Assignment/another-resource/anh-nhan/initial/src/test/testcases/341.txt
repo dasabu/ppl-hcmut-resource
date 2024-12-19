@@ -1,0 +1,7 @@
+
+            Class Shape {
+                Var x, y : b = 12, 0;
+                Val $e : Array[Array[Array[Int, 3],4],5];
+                Var $x : Array[String, 2] = "hello";
+            }
+        

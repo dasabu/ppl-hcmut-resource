@@ -1,0 +1,14 @@
+
+         class x {
+            int a,b;
+            final int c=0;
+            int foo() {
+                x m; 
+                int a = 7;
+                float n;
+                m.a := 6;
+                if 1+2==3 then m.a := 6; else m.b := 7;
+                for a := 1+22*3 to m.c do m.a := 1;
+            }   
+        }
+        

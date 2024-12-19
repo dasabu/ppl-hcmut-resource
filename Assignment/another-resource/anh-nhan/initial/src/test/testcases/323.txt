@@ -1,0 +1,26 @@
+
+            Class Shape {
+                $getNumOfShape() {
+                    a = "Mai Thy";
+                }
+                Var $Student : Student = New Student();
+                Hello(a,b,c: Int; b: Float; c: MaiThy; e: Array[Array[Boolean, 2], 4]){
+                    {
+                        If(a[5] >= (X::$hello)){
+                            a = b && c;
+                        }
+                        Elseif(a < b){
+                            Foreach(lehoe In a .. b[9+2] By 5-9+1){
+                                x = x - 1;
+                            }
+                        }
+                        Elseif(c > d){
+
+                        }
+                        Else{
+
+                        }
+                    }
+                }
+            }
+        

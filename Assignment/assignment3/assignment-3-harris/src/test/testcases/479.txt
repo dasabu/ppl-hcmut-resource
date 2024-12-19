@@ -1,0 +1,8 @@
+
+        class hello {
+            static int foo;
+            int main(){
+                return this.main();
+            }
+        }
+        

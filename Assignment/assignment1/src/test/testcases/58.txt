@@ -1,0 +1,13 @@
+ class test_continue_statement {
+            void contstmt_testing_2(){
+                for i := this.arr.getSize() downto (1-1+2-2*0/2-1) do {
+                    if this.arr[i] % 2 == 0 then break;
+                    else continue;
+                }
+                for i := 0 to this.arr.getSize(this) do {
+                    if !this.isPrime(this.arr[i]) then continue;
+                    else break;
+                }
+            }
+        }
+        

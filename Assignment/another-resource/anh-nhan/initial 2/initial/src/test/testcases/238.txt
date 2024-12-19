@@ -1,0 +1,16 @@
+
+            class Shape extends Hhh {
+                ## comment nay thi dung ne 
+                int x, y, b = 12.34E-33;
+                test(){
+                    t2 := !(2+9) - !1234 + - ab + "hello \t haha" / 1000;
+                }
+                void main(){
+                    int b, c= 0;
+                    for i:= 1 to 10 do
+                        this.print("hehe");
+                    break;
+                }
+            }
+
+        

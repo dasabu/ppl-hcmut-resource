@@ -1,0 +1,7 @@
+
+class test {
+	int gh() {
+		this.foo();
+		this.abc();
+	}
+}

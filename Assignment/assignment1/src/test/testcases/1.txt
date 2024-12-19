@@ -1,0 +1,6 @@
+class test{
+            final float a, b = 1e9, c = 2E-9, d, e = 123.0, f = 6.;
+            static final int k = 3124;
+            final static string name = "Le Duy Anh";
+        }
+        

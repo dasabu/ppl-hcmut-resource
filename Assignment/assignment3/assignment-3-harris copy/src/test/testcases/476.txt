@@ -1,0 +1,15 @@
+
+         class x {
+            int a,b;
+            final int c=15*152-151;
+            static int m;
+            int foo(int a,v,b) {
+                x d;
+            }
+            void main() {
+                x d;
+                int m;
+                d.foo(1,2,3);
+            }
+        }
+        

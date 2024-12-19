@@ -1,0 +1,9 @@
+
+          class hello {
+          a(){}
+          b(){}
+          c c ;
+          }
+          class goobye {
+          }
+          

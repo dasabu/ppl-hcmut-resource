@@ -1,0 +1,11 @@
+
+        class Test {
+            final int c = 9;
+            int foo(int a){
+                {
+                    a := 0;
+                    this.c := 7;
+                }
+            }
+        }
+        

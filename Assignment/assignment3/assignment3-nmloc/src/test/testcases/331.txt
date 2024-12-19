@@ -1,0 +1,8 @@
+
+        class Test { 
+            static void foo(){
+                Shape s = new Shape();
+                Shape[10] s_arr;
+            }
+        }
+        

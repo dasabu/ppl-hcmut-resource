@@ -1,0 +1,10 @@
+
+            class newname{
+                void test(){
+                    void main(){
+
+                    }
+                }
+            }
+
+        

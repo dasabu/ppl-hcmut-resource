@@ -1,0 +1,10 @@
+
+            class Shape {
+                int b;
+                string a = 5, b, c = 19;
+                a getNumOfShape(int b = 9) {
+                    a := "Mai Thy";
+                }
+            }
+
+        

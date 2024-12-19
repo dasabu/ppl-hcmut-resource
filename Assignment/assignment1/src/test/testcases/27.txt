@@ -1,0 +1,8 @@
+class testIfStmt{
+            static boolean check = true;
+            Keke doSomething(){
+                if check then {}
+                else {}
+            }
+        }
+        

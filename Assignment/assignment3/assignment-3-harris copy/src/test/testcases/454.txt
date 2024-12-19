@@ -1,0 +1,8 @@
+
+        class A{
+            final int[3] a = {1, 2, 3};
+            int foo(){
+                this.a[1] := 3;
+            }
+        }
+        

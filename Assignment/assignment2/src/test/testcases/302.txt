@@ -1,0 +1,5 @@
+
+        class test{
+            static void support(int f; float a, b, c; boolean x, y) {}
+            int main(){}
+        }

@@ -1,0 +1,10 @@
+
+class test {
+	int foo() {
+		a := 5;
+		if a ==b then this.abc; else this.hihihi;
+		break;
+		continue;
+		return a;
+	}
+}

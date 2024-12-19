@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(b),ArrayType(2,IntType))],[AssignStmt(Id(b),[IntLit(1200),IntLit(200)]),If(BooleanLit(True),Block([],[Call(Id(io),Id(writeInt),[ArrayCell(Id(b),IntLit(0))])]),Block([],[Call(Id(io),Id(writeInt),[ArrayCell(Id(b),IntLit(1))])]))]))])])

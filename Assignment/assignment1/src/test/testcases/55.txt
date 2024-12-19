@@ -1,0 +1,9 @@
+ class test_break_statement {
+            void test_for_with_break(){
+                for eXp := 1 downto arrOfSthing[x.a] do { break; }
+                if eXp == 1 then {
+                    for i := this.getValFromIndex(arr[this.x * arr[3]]) downto true == false do break;
+                }
+            }
+        }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(a),[MethodDecl(Id(kori),Instance,[param(Id(ok),IntType)],ClassType(Id(Shape)),Block([],[]))])])

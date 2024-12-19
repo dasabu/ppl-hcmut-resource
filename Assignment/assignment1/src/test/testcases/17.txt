@@ -1,0 +1,5 @@
+class testingConstructor {
+            testingConstructor(int x,y ; boolean a; string h; float g,h,j){
+            }       
+        }
+        

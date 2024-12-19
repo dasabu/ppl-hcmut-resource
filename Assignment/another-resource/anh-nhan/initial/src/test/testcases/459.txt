@@ -1,0 +1,8 @@
+
+            Class Program {
+                Val b:Float=-1+1;
+                Val c:Boolean=!True&&False;
+                Var d:Int=-1.0+1;
+                main(){}
+             }
+        

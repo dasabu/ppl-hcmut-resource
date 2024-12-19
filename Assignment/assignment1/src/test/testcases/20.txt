@@ -1,0 +1,6 @@
+class testing_method {
+            int getVal(int x){
+                this.x := this.foo(1 + 2 * 3 / 4);
+            }
+        }
+        

@@ -1,0 +1,11 @@
+
+        class B{
+            A x;
+            int boo(){
+                return this.x.foo(5,4, this.x);
+            }
+        }
+        class A{
+            B foo(float c,d; A n){}
+        }
+        

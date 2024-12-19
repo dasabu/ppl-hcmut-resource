@@ -1,0 +1,10 @@
+
+            class 12newname{
+                test(){
+                    if a then {
+                        int[0] h;
+                    }
+                }
+            }
+
+        

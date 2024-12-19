@@ -1,0 +1,10 @@
+
+            Class Shape {
+                test(){
+                    d1 = a +. b;
+                    d2 = a ==. b;
+                    d3 = !(a<=b);
+                    d4 = c*d%x;
+                }
+            }
+        

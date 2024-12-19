@@ -1,0 +1,13 @@
+
+        class A extends B{
+            int foo(){
+                B x = new B();
+                int a = x.b;
+                return x.boo(4, 5, 7);
+            }
+        }
+        class B{
+            int b;
+            static int boo(int a,b; float c){}
+        }
+        

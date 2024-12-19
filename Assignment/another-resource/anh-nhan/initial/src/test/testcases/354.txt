@@ -1,0 +1,10 @@
+
+            Class Shape {
+                test(){
+                    a = true + True && False;
+                    a = true + "True ## && ## False";
+                    b = !False;
+                    c = true + (True && False);
+                }
+            }
+        

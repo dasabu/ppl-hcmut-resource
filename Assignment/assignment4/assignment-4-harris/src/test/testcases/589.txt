@@ -1,0 +1,16 @@
+
+            class BKoolClass {
+                int[4] total={0,0,0,0};
+                void change(int i){
+                    this.total[i] := 100;
+                }
+            
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    int i=0;
+                    for i:=0 to 3 do{
+                        io.writeInt(bk.total[i]);
+                    }
+            }
+        }
+        

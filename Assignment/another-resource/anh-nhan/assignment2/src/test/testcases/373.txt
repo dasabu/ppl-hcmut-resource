@@ -1,0 +1,7 @@
+
+        class a extends b 
+        {
+            Shape s;
+            Shape c = new Shape(15);
+            Shape d = c;
+        }

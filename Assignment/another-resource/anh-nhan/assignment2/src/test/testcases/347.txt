@@ -1,0 +1,49 @@
+ 
+        class Point 
+        {
+            int x, y;
+            static float length(Point a; Point b) 
+            {
+                return Math.sqrt(Math.sqr(a.x - b.x) - (a.y - b.y));
+            }
+        }
+        class Triangle 
+        {
+            Point point1, point2, point3;
+            float edge1, edge2, edge3;
+            Triangle(Point p1; Point p2; Point p3) 
+            {
+                this.point1 := p1;
+                this.point2 := p2;
+                this.point3 := p3;
+                this.edge1 := Point.length(p1, p2);
+                this.edge2 := Point.length(p2, p3);
+                this.edge3 := Point.length(p3, p1);
+            }
+            float circumference() 
+            {
+                return (this.edge1 + this.edge2 + this.edge3) / 2;
+            }
+            float area() 
+            {
+                float p;
+                p := this.circumference();
+                return Math.sqrt(p * (p - this.edge1) * (p - this.edge2) * (p - this.edge3));
+            }
+        } 
+        class Program
+        {
+            void main() 
+            {
+                Point p1, p2, p3;
+                Triangle abc;
+                float area;
+                p1 := new Point(0, 0);
+                p2 := new Point(0, 1);
+                p3 := new Point(1, 0);
+                abc := new Triangle(p1, p2, p3);
+                area := abc.area();
+                io.writeLn("Area of triangle: ", area);
+            }
+        } 
+        

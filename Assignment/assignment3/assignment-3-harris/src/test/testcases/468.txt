@@ -1,0 +1,10 @@
+
+        class A{
+            static int k;
+            int foo(){
+                A x;
+                int A;
+                int c = A.k;
+            }
+        }
+        

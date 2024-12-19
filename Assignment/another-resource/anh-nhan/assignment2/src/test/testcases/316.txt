@@ -1,0 +1,5 @@
+class test {
+                        void main(){
+                            Shape s =  new Triangle();
+                        }
+                    }

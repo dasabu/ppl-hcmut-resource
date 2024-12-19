@@ -1,0 +1,7 @@
+
+        class main {
+            int foo(int foo,c){
+                float c;
+            }
+        }
+        

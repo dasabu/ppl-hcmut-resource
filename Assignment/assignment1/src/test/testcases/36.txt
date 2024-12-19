@@ -1,0 +1,8 @@
+class mixed_for_if_method2{
+            void mix_if_for_method2(){
+                if i != this.getLength(this.j) then {
+                    for j := 0 to i - 1 do this.print();
+                }
+            }
+        }
+        

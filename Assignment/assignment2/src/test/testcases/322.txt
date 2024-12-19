@@ -1,0 +1,8 @@
+
+        class Test {
+            final int x = this.arr[3], y, z = this.getVal(1.0,!false);
+            final float a, b = this.arr;
+            # static final Shape s = new Shape();
+            # final static Shape[10] s = {"Tri", "Rec"};
+        }
+        

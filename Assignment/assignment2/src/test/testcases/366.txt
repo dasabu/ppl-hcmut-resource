@@ -1,0 +1,9 @@
+
+          class hello {
+          a(){
+          for baukhiquyen := 0 to mattroi do {}
+          }
+          }
+          class goobye {
+          }
+          

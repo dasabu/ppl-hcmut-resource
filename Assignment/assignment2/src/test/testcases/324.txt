@@ -1,0 +1,10 @@
+
+        class Person{
+            void setName(string s){
+                
+            }
+            string getName(){
+                
+            }
+        }
+        

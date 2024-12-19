@@ -1,0 +1,10 @@
+
+            class Shape {
+                test(){
+                }
+                class Hoa extends shape{
+
+                }
+            }
+
+        

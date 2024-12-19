@@ -1,0 +1,12 @@
+
+        class Test {
+            void foo(){
+                return this.n;
+                return this.n();
+                return n[3];
+            }
+            static int bar(){
+                return nil;
+            }
+        }
+        

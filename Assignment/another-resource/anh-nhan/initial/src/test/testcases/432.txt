@@ -1,0 +1,9 @@
+Class A {
+                Var a:Int;
+                Var b: Float;
+                method1(){
+                    Var a : Int;
+                    Var b: Float;
+                }
+             }
+                Class A : C{}

@@ -1,0 +1,13 @@
+
+        class  A extends  B{
+            int  foo(){
+                A  x;
+                int  c; 
+                int  a  = x.c  ;
+            }
+        }
+        class  B{
+            int  c;
+        }
+
+        

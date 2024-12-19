@@ -1,0 +1,8 @@
+ class test_continue_statement {
+            Student contstmt_testing_3(){
+                {
+                    continue;
+                }
+            }
+        }
+        

@@ -1,0 +1,9 @@
+
+        class main {
+            final int k = 8;
+            float foo(int foo,c){
+                return this.k;
+                break;
+            }
+        }
+        

@@ -1,0 +1,7 @@
+
+            class Test{
+                int test(){
+                    this.x := 1 + 2;
+                }
+            }
+        

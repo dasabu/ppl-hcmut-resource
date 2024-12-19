@@ -1,0 +1,11 @@
+
+          class hello {
+            string sting(){
+          a[2] := 0;for i:=1 to end do a:=0;
+          }
+
+          }
+          class goobye {
+
+          }
+          

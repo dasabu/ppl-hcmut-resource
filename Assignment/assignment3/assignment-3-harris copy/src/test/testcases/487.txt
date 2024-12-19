@@ -1,0 +1,15 @@
+
+         class x extends y{
+            int a,b;
+            final int c = 2;
+            static int m;
+            int foo(float z) {
+                x d;
+                z := x.m / d.xm;
+                return true;
+            }
+        }
+        class y {
+            int xm;
+        }
+        

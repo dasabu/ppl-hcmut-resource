@@ -1,0 +1,19 @@
+
+            Class Shape {
+                Constructor(a, b, c: Int; e,f: Bay){
+                }
+                Destructor(){
+                }
+            }
+            Class Circle : Shape {
+                Var a, $b, c : Conheo = 10, 20, 49;
+                Test(){
+                    (aimabiet.jztr[5]).a = 12;
+                    (a.b[9-2+-12]).b();
+                    ## comment cho vui ne ##
+                    ## var a = b; cai nay sai ne ##
+                    Val x : String = "hello hihi \t alo";
+                }
+            }
+
+        

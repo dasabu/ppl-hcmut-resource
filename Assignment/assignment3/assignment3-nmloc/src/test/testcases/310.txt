@@ -1,0 +1,6 @@
+
+        class AttriTest{
+            final int x = 10, a, b = 2.0, d = true;
+            static int x, y = 10, z, f;
+        }
+        

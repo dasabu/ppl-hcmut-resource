@@ -1,0 +1,6 @@
+class test {
+            final int x = 5;
+            final string a = "1", b = "6";
+            final float h = 1, k = 2;
+            }
+        

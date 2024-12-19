@@ -1,0 +1,9 @@
+
+        class Test {
+            int a = 1 + true;
+            int foo(){
+                return this.a;
+                continue;
+            }
+        }
+        

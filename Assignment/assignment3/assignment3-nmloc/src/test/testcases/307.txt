@@ -1,0 +1,14 @@
+
+        class Main{
+            void test(){
+                for i := 1 to 10 do {
+                    int y;
+                    y := i;
+                    final int i = -y;
+                    break;
+                    if max < i then max := i;
+                    else continue;
+                }
+            }
+        }
+        

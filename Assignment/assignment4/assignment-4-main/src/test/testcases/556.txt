@@ -1,0 +1,14 @@
+
+            class BKoolClass{
+                int a=10;
+                float b=2.5;
+                string c="bk";
+                boolean d= true;
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    if bk.d then {
+                        io.writeStr(bk.c);
+                    }
+                }
+            }
+        

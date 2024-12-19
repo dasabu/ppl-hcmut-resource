@@ -1,0 +1,13 @@
+class main {
+
+            int x(){
+
+                for i := 1 to 100 do {
+io.writeIntLn(i);
+Intarray[i] := i + 1;
+}
+for x := 5 downto 2 do
+io.writeIntLn(x);
+               }
+
+           }

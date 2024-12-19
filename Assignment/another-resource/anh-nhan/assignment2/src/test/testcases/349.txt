@@ -1,0 +1,10 @@
+
+        class Shape 
+        {
+            Shape() 
+            {
+                int width, height;
+                float pi = 314e-2;
+            }
+        }
+        

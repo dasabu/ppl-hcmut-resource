@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(a),[MethodDecl(Id(kori),Instance,[param(Id(a),IntType),param(Id(b),IntType)],IntType,Block([],[AssignStmt(FieldAccess(Id(a),Id(b)),Id(c))]))])])

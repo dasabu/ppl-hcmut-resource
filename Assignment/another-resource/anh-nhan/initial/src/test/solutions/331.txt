@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(Hi),Instance,[],Block([AssignStmt(ArrayCell(Id(a),[IntLit(1),BinaryOp(-,Id(b),Id(c))]),ArrayCell(ArrayCell(Id(a),[Id(i)]),[Id(j)]))])),AttributeDecl(Static,VarDecl(Id($hi),ArrayType(2,ArrayType(2,IntType)),StringLit(Hello this is \f some nmice \t string hehe)))])])

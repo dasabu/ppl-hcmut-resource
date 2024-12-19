@@ -1,0 +1,10 @@
+
+            class newname{
+                test(){
+                    if a then {
+                        id[4][4] b = 12; 
+                    }
+                }
+            }
+
+        

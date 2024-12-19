@@ -1,0 +1,11 @@
+ 
+        class assignment_statement_test{
+            int foo(){
+                a[3+x.foo(2)] := a[b[2]] +3;
+                x.b[2] := x.m()[3];
+                a[x+b.foo(2)+3] := a[b[2]+6]+3;
+                t.y[0] := r.len()[10];
+                a[3+x] := a[b[f+y[2]-h[t[5+j]] * 4]] + 3;
+            }
+        }
+        

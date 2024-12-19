@@ -1,0 +1,11 @@
+
+        class hello extends A {
+            int foo(){
+                int a = this.boo();
+                float a;
+            }
+        }
+        class A{
+            int boo(){}
+        }
+        

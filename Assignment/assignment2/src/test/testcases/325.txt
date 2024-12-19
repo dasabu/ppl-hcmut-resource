@@ -1,0 +1,7 @@
+
+        class Test extends Test{
+            static int Method(int a, b; float c; boolean e, g){
+                
+            }
+        }
+        

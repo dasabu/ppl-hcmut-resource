@@ -1,0 +1,9 @@
+
+        class Test5{
+            int set(int val){
+                int x;
+                x := -val;
+                return x;
+            }
+        }
+        

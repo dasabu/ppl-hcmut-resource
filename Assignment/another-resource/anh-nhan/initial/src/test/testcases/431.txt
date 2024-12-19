@@ -1,0 +1,8 @@
+Class A {
+                Var a:Int;
+                Var b: Float;
+                method1(){
+                    Val a : Int = 18;
+                    Val a: Float = 20;
+                }
+             }

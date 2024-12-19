@@ -1,0 +1,11 @@
+
+class test {
+	void foo() {
+		int x;
+		float y;
+		string[1000] str;
+	}
+	int x;
+	float y;
+	string[1000] str;
+}

@@ -1,0 +1,7 @@
+
+        class Test { 
+            void bar(){
+                final Shape s = new Shape("Circle", 3.14);
+            }
+        }
+        

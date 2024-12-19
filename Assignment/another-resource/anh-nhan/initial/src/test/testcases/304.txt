@@ -1,0 +1,8 @@
+
+            Class Program{
+                Main(){
+                    Var hello: Int; ##need none##
+                    Var a, b: Heo; ##need null lit##
+                }
+            }
+        

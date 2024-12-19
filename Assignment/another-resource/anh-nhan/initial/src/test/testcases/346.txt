@@ -1,0 +1,15 @@
+
+            Class Program {
+                main() {
+                    Val a : Int;
+                    Foreach (i In 1 .. 100)
+                    {
+                        Self.printf("enter the number:");
+                        If (self == 0) {
+                            Break;
+                        }
+                    }
+                    Return 0;
+                }
+            }
+        

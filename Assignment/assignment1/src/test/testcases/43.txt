@@ -1,0 +1,8 @@
+class Random_Test {
+            string Random_method() {
+                final int x = 10, y, z, t = 10;
+                float a, a1 = 10, b, c;
+                final boolean x,y,z;
+            } 
+        }
+        

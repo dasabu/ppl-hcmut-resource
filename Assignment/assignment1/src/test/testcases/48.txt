@@ -1,0 +1,33 @@
+class test_return_stmt{
+            final int a,b,c = 10, x,y = 100;
+            int retSthIdontknow(int a,b,c){
+                if (a == b) then {
+                    return 1;
+                }
+                if (b != c) then return 0;
+                else return -1;
+            }
+            
+            void main(){
+                boolean x = this.retSthIdontknow(this.x, this.foo(1), this.z[3]);
+                float r, s;
+                r := s * s / x;
+                final string s = "PPL";
+                for x := 1 downto -1 do{
+                    if (r == x) then return r.getVal();
+                }
+                if (r != s) then {
+                    if (r + 1 && 2 * 3 / 4 \ this.getVal()) then return a;
+                    else {
+                        r := this.getVal(1e9, "Duy Anh");
+                        return this.r;
+                    }
+                }
+                else {
+                    x := (this.x + this.y[1+1/2]);
+                    return x * this.l[3];
+                }
+                return (1+1 * 2);
+            }
+        }
+        

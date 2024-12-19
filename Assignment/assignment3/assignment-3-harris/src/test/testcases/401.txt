@@ -1,0 +1,9 @@
+class Test {
+            int a = "addmaximum",b = 0001.18;
+            static Test2 abc;
+        }
+        class Test {
+            int a = "addmaximum",b = 0001.18;
+            Test abc;
+            void aneue,onichann= 1213;
+        }

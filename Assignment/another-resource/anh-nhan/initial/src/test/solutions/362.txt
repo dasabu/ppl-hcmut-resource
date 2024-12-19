@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[AttributeDecl(Instance,VarDecl(Id(chuvi),FloatType)),AttributeDecl(Instance,VarDecl(Id(dientich),FloatType))]),ClassDecl(Id(Hinhchunhat),Id(Shape),[MethodDecl(Id(TinhS),Instance,[],Block([Return(BinaryOp(*,Id(x),Id(y)))]))]),ClassDecl(Id(Hinhvuong),Id(Hinhchunhat),[])])

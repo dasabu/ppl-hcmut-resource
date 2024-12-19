@@ -1,0 +1,12 @@
+
+            class newname{
+                test(){
+                    if a then {
+                        if b then {}
+                        else i:=10;
+                        if c then {}
+                    }
+                }
+            }
+
+        

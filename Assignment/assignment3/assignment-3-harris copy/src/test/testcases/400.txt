@@ -1,0 +1,14 @@
+class Test {
+            int a = "addmaximum",b = 0001.18;
+            static Test2 abc;
+            Test2 abcc(Test2 a,a){
+                Test2 an;
+                for i := 1 to 100 do 
+                {
+                    io.writeIntLn(i);
+                    Intarray[i] := i + 1;
+                }
+            }
+            void aneue,onichann= 1213;
+        }
+        

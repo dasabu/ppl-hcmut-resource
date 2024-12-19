@@ -1,0 +1,13 @@
+
+            class newname{
+                test(){
+                    if ((a[5]).b()[4] == !True) then {
+                        return a;
+                    }
+                    else{
+                        this.Donothing();
+                    }
+                }
+            }
+
+        

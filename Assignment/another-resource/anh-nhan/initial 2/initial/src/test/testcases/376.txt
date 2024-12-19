@@ -1,0 +1,4 @@
+
+        class ABC /* extends ABC {}
+        {string terrorist = "ho" */
+        {}

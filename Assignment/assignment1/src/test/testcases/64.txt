@@ -1,0 +1,11 @@
+ class Shape {
+            boolean type;
+            boolean retType(){
+                return this.type;
+            }
+            static void create(){
+                if (this.getType()) then return new Circle(5);
+                else return new Rectangle(1,2);
+            }
+        }
+        

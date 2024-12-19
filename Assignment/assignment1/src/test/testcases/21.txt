@@ -1,0 +1,6 @@
+class testing_constructor{
+            /* i dont know wut to write here
+            # so i wont silent
+            */
+        }
+        

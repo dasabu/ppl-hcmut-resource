@@ -1,0 +1,11 @@
+
+            Class Shape {
+                Var x, y: Float;
+                TinhS(x, y: Float){
+                    Return x*y;
+                }
+                TinhC(x, y: Float){
+                    Return 2*(x+y);
+                }
+            }
+        

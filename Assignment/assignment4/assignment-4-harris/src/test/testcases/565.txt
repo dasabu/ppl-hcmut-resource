@@ -1,0 +1,12 @@
+
+        class BKoolClass {
+            static float d;
+            float bb;
+            static void main(){
+                float d;
+                boolean e;
+                d := 19\10;
+                io.writeFloat(d);
+            }
+        }
+        

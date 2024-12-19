@@ -1,0 +1,6 @@
+
+        class Test {
+            int x, y = 10, z, y;
+            static float z = this.x[1 + 2], y;
+        }
+        

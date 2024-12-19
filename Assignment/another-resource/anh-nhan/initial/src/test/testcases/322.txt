@@ -1,0 +1,8 @@
+
+            Class Program{
+                Val My1stCons,oct,hex,bin: Int=1,011,0x11,0b11 ;
+                Main(){
+                    Val My1stCons,oct,hex,bin: Int=1,011,0x11,0b11 ;
+                }
+            }
+        

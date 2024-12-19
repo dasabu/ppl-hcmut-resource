@@ -1,0 +1,9 @@
+
+            class BKoolClass{
+                int b=1;
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    io.writeInt(bk.b);
+                }
+            }
+        

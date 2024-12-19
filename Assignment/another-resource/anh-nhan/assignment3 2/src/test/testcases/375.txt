@@ -1,0 +1,5 @@
+class test {
+                void foo(int a,b;float c) {
+                string _str_,o,c;
+                }
+            }

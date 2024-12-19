@@ -1,0 +1,7 @@
+
+        class Test { 
+            void bar(){
+                final int x, y = 1, z = 10, e, f = 1 + 1;
+            }
+        }
+        

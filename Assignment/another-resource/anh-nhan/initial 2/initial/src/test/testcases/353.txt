@@ -1,0 +1,5 @@
+
+        class a extends b 
+        {
+            Shape s = new Shape(a, !b, 12, 25,-2.12314 + c % 789138712841 + 5, false, "kori  phuonggggggg" ^ "hola", id, this.pos[14] + 1 / 5);
+        }

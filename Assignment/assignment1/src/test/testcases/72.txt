@@ -1,0 +1,5 @@
+ class Shape{}
+        class test_create_object{
+            final Shape sHSh = new;
+        }
+        

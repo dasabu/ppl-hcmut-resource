@@ -1,0 +1,21 @@
+ class test_continue_statement {
+            static float contstmt_testing_3(int ele){
+                if ele == 4 then {
+                    continue;
+                }
+                if ele == 3 then continue;
+                if ele == 2 then {
+                    i := 1;
+                    if (i + 1 == ele) then break;
+                    else continue;
+                }
+                if ele == 1 then {
+                    for i := this.size(this.arr.isBalance()) downto this.minSize(this, 3, random.str()) do
+                        continue;
+                }
+                else {
+                    continue;
+                }
+            }
+        }
+        

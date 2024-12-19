@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[AttributeDecl(Instance,VarDecl(Id(x),ClassType(Id(b)),IntLit(12))),AttributeDecl(Instance,VarDecl(Id(y),ClassType(Id(b)),IntLit(0))),MethodDecl(Id(test),Instance,[],Block([AssignStmt(Id(a),IntLit(12)),AssignStmt(Id($c),IntLit(16))]))])])

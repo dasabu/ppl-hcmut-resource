@@ -1,0 +1,17 @@
+
+            class Shape {
+                int b;
+                string a = 5, b, c = 19;
+                a getNumOfShape() {
+                    a := "Mai Thy";
+                }
+                void main(){
+                    int b;
+                    b:=c;
+                    
+                }
+                string a = 5, b, c = 19;
+                float test(int a, b, c; float d; string){}
+            }
+
+        

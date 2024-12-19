@@ -1,0 +1,12 @@
+
+            Class Banhchuoi{
+                test(){
+                    Self.colen(Self).hello("self");
+                    Var a : Int = Self + 4;
+                    X = a::$hello.haha();
+                    a[9][12] = hello;
+                    b = Self + Self;
+                }
+                Var x, $y : Int = 2, 3;
+            }
+        

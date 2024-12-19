@@ -1,0 +1,8 @@
+class testIfStmt{
+            static boolean check = true;
+            void doSomething(){
+                if check then io.printOnConsole("expr is good");
+                else io.printOnConsole("expr is not good");
+            }
+        }
+        

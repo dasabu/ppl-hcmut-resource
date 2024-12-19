@@ -1,0 +1,17 @@
+class A {
+            B foo(B b, a) {
+                float c;
+                B.hihi();
+                for i := 1 to 10 do {
+                    B.foo(6, 9);
+                    break;
+                }
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                C c;
+            }
+            int[3] hihi() {}
+        }

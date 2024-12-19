@@ -1,0 +1,17 @@
+class A {
+            A a;
+            B foo(B b, a) {
+                float c;
+                B.hihi();
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                C c1;
+                C.foo(6, 9);
+                B.haha();
+            }
+            int[3] hihi() {}
+        }
+        class C extends A {}

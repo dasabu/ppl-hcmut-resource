@@ -1,0 +1,8 @@
+
+        class X {
+            final int b = 0;
+            X a;
+            int m = this.m + 5;
+            final int c = this.a.b;
+        }
+        

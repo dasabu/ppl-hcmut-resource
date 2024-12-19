@@ -1,0 +1,9 @@
+
+            Class Shape {
+                Hi(){
+                    a::$baby();
+                    a = b::$baby();
+                    a = b::$baby;
+                }
+            }
+        

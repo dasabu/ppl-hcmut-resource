@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[AttributeDecl(Instance,VarDecl(Id(zalo),IntType)),AttributeDecl(Instance,VarDecl(Id(facbook),IntType)),AttributeDecl(Instance,VarDecl(Id(nikola),IntType)),MethodDecl(Id(<init>),Instance,[],Block([],[If(Id(notthing),AssignStmt(Id(statement),IntLit(0)))])),AttributeDecl(Instance,VarDecl(Id(aloalo),ClassType(Id(aloalo))))]),ClassDecl(Id(goobye),[])])

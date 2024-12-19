@@ -1,0 +1,9 @@
+
+        class A{
+            A A;
+            static int c;
+            int a;
+            int b = this.A.a;
+            int d = this.A.c;
+        }
+        

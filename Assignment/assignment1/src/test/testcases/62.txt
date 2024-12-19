@@ -1,0 +1,9 @@
+ class test_continue_statement {
+            static Person test(){
+                {}
+                { continue; }
+                { break; }
+                { return this.isSuccess.arr[this.getAtomElement]; }
+                {}
+            }}
+        

@@ -1,0 +1,8 @@
+
+            class BKoolClass{
+                static void main(){
+                    io.writeFloat(10/5);
+                }
+            }
+            
+        

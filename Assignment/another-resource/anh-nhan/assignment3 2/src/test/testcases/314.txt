@@ -1,0 +1,7 @@
+class test {
+                        void main(){
+                            Shape s;
+                            s := new Rectangle(3,4);
+                            s := new Triangle(3,4);
+                        }
+                    }

@@ -1,0 +1,11 @@
+
+            class a {
+                int a;
+                static float bb;
+                final int c = 1;
+                void main(int i;float j; string k){
+                    int[5] a;
+                    return 5;
+                }
+            }
+            

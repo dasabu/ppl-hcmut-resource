@@ -1,0 +1,4 @@
+Class Program {
+                Val a:Int;
+                main(){}
+             }

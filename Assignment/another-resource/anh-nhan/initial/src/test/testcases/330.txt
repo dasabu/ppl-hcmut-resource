@@ -1,0 +1,7 @@
+
+            Class Shape {
+                Hi(){
+                }
+                Var $hi: Array[Array[Int,2],2] = Array(Array(15-9, Array(2,3,12)), Array(0,1));
+            }
+        

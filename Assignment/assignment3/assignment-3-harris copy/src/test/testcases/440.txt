@@ -1,0 +1,7 @@
+
+        class X{
+            final int[3] k = {4,6,7};
+            final float[3] e = this.k;
+            int e;
+        }
+        

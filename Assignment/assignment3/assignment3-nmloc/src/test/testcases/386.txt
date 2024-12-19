@@ -1,0 +1,6 @@
+class main {
+               int x(){
+
+if a  then b :=a;
+               }
+           }

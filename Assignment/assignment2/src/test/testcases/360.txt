@@ -1,0 +1,10 @@
+
+            class hello {
+                int zalo, facbook, nikola;
+                a(){
+                    if notthing then statement := 0;
+                }
+                aloalo aloalo;
+            }
+            class goobye {}
+        

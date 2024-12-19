@@ -1,0 +1,9 @@
+
+        class Test {
+            final int c = 9;
+            int fun(){
+                Test a;
+                a := new Test(9);
+            }
+        }
+        

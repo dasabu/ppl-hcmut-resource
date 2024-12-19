@@ -1,0 +1,12 @@
+class testIfStmt{
+            static boolean check = true;
+            Keke doSomething(){
+                if check then {
+                    io.printOnConsole(check);
+                }
+                else {
+                    io.printOnConsole(!check);
+                }
+            }
+        }
+        

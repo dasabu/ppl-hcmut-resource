@@ -1,0 +1,10 @@
+
+            Class Program{
+                Main(){
+                    If(a==b){}
+                    If(b<c){}Else{}
+                    If(a==b){}Elseif(b<c){}
+                    If(a==b){}Elseif(b<c){}Else{}
+                }
+            }
+        

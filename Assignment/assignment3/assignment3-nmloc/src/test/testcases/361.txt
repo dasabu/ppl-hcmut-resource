@@ -1,0 +1,6 @@
+class main {
+               int x(){
+                a := a * b;
+
+               }
+           }

@@ -1,0 +1,13 @@
+
+            Class Shape {
+                Var chuvi, dientich : Float;
+            }
+            Class Hinhchunhat : Shape{
+                TinhS(){
+                    Return x*y;
+                }
+            }
+            Class Hinhvuong : Hinhchunhat{
+
+            }
+        

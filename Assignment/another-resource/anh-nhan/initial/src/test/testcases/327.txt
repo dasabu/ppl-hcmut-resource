@@ -1,0 +1,13 @@
+
+            Class Shape {
+                Val $Student : Student = New Student(a,12.4);
+                Var $a, b, $c, d: Int = 1,2,3,4;
+
+                Hello(){
+                    {
+                        Var hello : Array[Boolean, 3];
+                        Val length : Int = 1;
+                    }
+                }
+            }
+        

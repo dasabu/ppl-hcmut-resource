@@ -1,0 +1,34 @@
+class findMax{
+            final static int a = 10;
+            static final float b = 20;
+            final string c = "Duy Anh";
+            void printOnConsole(float value){
+                io.print(value);
+                this.max := value;
+                this.minArray[0] := -value;
+            }
+            static void FunctionForNothing(string da, DA){
+                if (a > b) then {
+                    if (a > c) then {
+                        if (b > c) then {
+                            x.printOnConsole(1,2,3);
+                        }
+                        else x.printOnConsole("largest is a and smallest is b");
+                    }
+                    else {
+                        final string danh = "DA";
+                        danh := "Le Duy Anh";
+                        if (a == !x) then x.callSomeFunctionHere();
+                        if b then {
+                            this.minusArray[1] := this.foo(a,b);
+                            this.print("heeh");
+                        }
+                        else {
+                            this.doSomethingHere();
+                            DA.print("notSoWise");
+                        }
+                    }
+                }
+            }
+        }
+        

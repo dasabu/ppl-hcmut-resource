@@ -1,0 +1,11 @@
+
+            class Shape extends Hhh {
+                int b(){
+                    int a = (!b).c(), b, c = 10;
+                    bool hel = (2-(b/2)+-12)[5];
+                    X := (2-3).hello;
+                    return (a[b[3]]).c();
+                }
+            }
+
+        

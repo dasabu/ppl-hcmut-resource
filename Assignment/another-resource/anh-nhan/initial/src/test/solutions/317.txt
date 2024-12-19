@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Phong),[MethodDecl(Id(main),Instance,[],Block([AssignStmt(Id(a),FieldAccess(FieldAccess(FieldAccess(Id(x),Id($y)),Id(z)),Id(t))),AssignStmt(Id(b),FieldAccess(FieldAccess(FieldAccess(BinaryOp(+,Id(x),IntLit(1)),Id(y)),Id(z)),Id(t)))]))])])

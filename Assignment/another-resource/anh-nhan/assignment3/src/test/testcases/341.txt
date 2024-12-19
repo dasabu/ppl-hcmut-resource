@@ -1,0 +1,5 @@
+class test {
+	int foo() {
+		int[3] a = {5.1, 6.2, true};
+	}
+}

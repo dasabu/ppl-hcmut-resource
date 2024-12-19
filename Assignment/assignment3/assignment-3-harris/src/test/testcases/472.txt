@@ -1,0 +1,11 @@
+
+         class x {
+            int a,b;
+            int foo() {
+                x m; 
+                m.a := 6;
+                if 1+2==3 then m.a := 6; else m.b := 7;
+                a := 0;
+            }
+        }
+        

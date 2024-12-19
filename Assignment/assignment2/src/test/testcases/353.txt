@@ -1,0 +1,15 @@
+
+        class Test {
+            static void foo(int a, b; float c; float d){
+                if this.x.getValue(i) != nil then {
+                    for i := 0 to this.getValue(this.x[3], y.arr[0], z.calc(x.arr)) do {
+                        i := x.arr[3] * x.get();
+                        for j := i to c do {
+                            if j == nil then {}
+                            else {}
+                        }
+                    }
+                }
+            }
+        }
+        

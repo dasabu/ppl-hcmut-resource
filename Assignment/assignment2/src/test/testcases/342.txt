@@ -1,0 +1,6 @@
+
+        class Test {
+            void foo(){
+                if this.x == true then {}
+            }
+        }

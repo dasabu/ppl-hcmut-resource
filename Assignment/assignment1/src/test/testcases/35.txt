@@ -1,0 +1,24 @@
+class mixed_for_if_method{
+            void mid_if_for(int x, y; float e; string f; boolean k; Point x, y, z){
+                if (x % 2 == 0) then {
+                    for i := 1 to (x * x / 2) do {
+                        # I dont know I dont know, nguoi ta noi hanh phuc se chang bao lau
+                        /* Tim mot noi tinh yeu dua loi
+                        Buon lam chi thoi da het roi
+                        */ 
+                        System.out.println("Nonsense function");
+                        if i == 1 then this.consoleLog(i);
+                        i := i * j * this.foo();
+                    }
+                    x := (1 + 1 * this.foo());
+                for j := 10 to (i + i / 2) do {
+                    j := j + 1 - 2 + 3;
+                    if (i == j) then {
+                        x.printf("What does the fox say");
+                        i := j * 2 / 3;
+                    }
+                }
+                }
+            }
+        }
+        

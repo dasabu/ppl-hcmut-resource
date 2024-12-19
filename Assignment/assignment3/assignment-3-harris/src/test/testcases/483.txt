@@ -1,0 +1,14 @@
+
+        class X{
+            int foo(){
+                int x = D.foo(1, nil);
+            }
+        }
+        class D{
+            static int foo(int a; X b){}
+            float main(){
+                return 5 + 3;
+                break;
+            }
+        }
+        

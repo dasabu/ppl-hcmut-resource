@@ -1,0 +1,12 @@
+
+        class main {
+            final int k = 8;
+            float foo(int foo,c){
+                final int f = 0;
+                return this.k;
+                {
+                    f := 5;
+                }
+            }
+        }
+        

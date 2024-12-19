@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(hello),[MethodDecl(Id(<init>),Instance,[],Block([VarDecl(Id(stop),ClassType(Id(pls)))],[Continue,Break,Return(Id(turn))]))]),ClassDecl(Id(goobye),[])])

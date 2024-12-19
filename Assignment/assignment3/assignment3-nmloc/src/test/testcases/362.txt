@@ -1,0 +1,8 @@
+
+          class hello {
+          string a(){
+          a[2] := 0;
+          }
+          }
+
+          

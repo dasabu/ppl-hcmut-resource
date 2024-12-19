@@ -1,0 +1,12 @@
+
+        class A extends B{
+            int  foo(){
+                A A;
+                return A.b;
+            }
+        }
+        class  B{
+            static int b;
+        }
+
+        

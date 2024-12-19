@@ -1,0 +1,11 @@
+
+        class A extends B{
+            int main(){
+                final A x = nil;
+                x.e := 5;
+            }
+        }
+        class B{
+            final int e = 9;
+        }
+        

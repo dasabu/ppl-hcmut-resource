@@ -1,0 +1,10 @@
+
+            Class Shape {
+                test(){
+                    a = !b;
+                    b = ---c;
+                    d = e + ---f;
+                    g = !---h;
+                }
+            }
+        

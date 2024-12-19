@@ -1,0 +1,16 @@
+
+        Class Program {
+        main(){
+                Var x: Int = 1;
+                If (x == 2){
+                    x = 3;
+                }
+                Elseif (x == 1) {
+                    x = 5;
+                }
+                Else {
+                    x = 8;
+                }
+                Return "No Error";
+        } }
+        

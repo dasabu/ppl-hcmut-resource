@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(bar),Instance,[],VoidType,Block([ConstDecl(Id(x),IntType,IntLit(1)),ConstDecl(Id(y),IntType,IntLit(1)),ConstDecl(Id(z),IntType,IntLit(10)),ConstDecl(Id(e),IntType,BinaryOp(+,IntLit(1),IntLit(1))),ConstDecl(Id(f),IntType,BinaryOp(+,IntLit(1),IntLit(1)))],[]))])])

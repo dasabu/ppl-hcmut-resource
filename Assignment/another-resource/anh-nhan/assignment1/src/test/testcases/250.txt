@@ -1,0 +1,16 @@
+
+					class test {
+									int foo() {									this.CHIPU();
+			this.CHIPU();		this.CHIPU();					this.CHIPU();		this.CHIPU();
+	this.CHIPU();						this.CHIPU();this.CHIPU();						this.CHIPU();
+this.CHIPU();										this.CHIPU();											this.CHIPU();
+		this.CHIPU();																							this.CHIPU();
+				this.CHIPU();																			this.CHIPU();				
+						this.CHIPU();															this.CHIPU();
+								this.CHIPU();											this.CHIPU();
+										this.CHIPU();							this.CHIPU();
+												this.CHIPU();			this.CHIPU();
+													this.CHIPU();this.CHIPU();
+																this.CHIPU();
+						}
+					}

@@ -1,0 +1,13 @@
+
+            Class Shape {
+                demsophantu_duong(start, end: Int; arr: Array[Float, 12]){
+                    Var count : Int = 0;
+                    Foreach(i In start .. end By 1){
+                        If(arr[i] >= 0){
+                            count = count + 1;
+                        }
+                        Return count;
+                    }
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+            Class Phong
+            {
+                main() {
+                    x = New Ngan().yeuPhong;
+                    y = New Ngan().yeuPhong.yeuP;
+                }
+            }
+        

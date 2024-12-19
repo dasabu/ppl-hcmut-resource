@@ -1,0 +1,6 @@
+class main {
+               int x(){
+a:=9;b:=c;a:=21123+qweqwe+203123;
+
+               }
+           }

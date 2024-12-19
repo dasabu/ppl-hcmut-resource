@@ -1,0 +1,8 @@
+
+        class X {
+            int foo(){}
+            static int boo(){}
+            int a = this.foo();
+            int b = this.boo();
+        }
+        

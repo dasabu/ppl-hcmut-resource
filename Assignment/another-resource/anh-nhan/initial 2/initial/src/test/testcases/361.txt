@@ -1,0 +1,8 @@
+
+        class kori extends phuong 
+        {
+            void main() 
+            {
+                this.ok("void");
+            }
+        }

@@ -1,0 +1,11 @@
+
+          class hello {
+            string strin(){
+          a[897] := 0;
+
+          }
+
+          }
+          class goobye {
+          }
+          

@@ -1,0 +1,7 @@
+ class test_comment {
+            /* This is a block comment
+            so # has no meaning here */
+            
+            # This is a line comment so /* or */ has no meaning here
+        }
+        

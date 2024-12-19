@@ -1,0 +1,6 @@
+
+        class x {}
+        class y {
+            C[5] a;
+        }
+        

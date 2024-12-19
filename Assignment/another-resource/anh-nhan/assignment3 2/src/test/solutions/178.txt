@@ -1,0 +1,1 @@
+do,var,[,oa6ec,-,-,.,.,vc463,var,<=,,,var,end,),-,[,nedb5,var,*,-,<=,*,*,then,<EOF>

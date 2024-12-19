@@ -1,0 +1,7 @@
+
+        class Test { 
+            int foo(int a, b; float c, d){
+                int x, y, z;
+            }
+        }
+        

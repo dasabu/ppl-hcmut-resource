@@ -1,0 +1,14 @@
+
+        class A extends B{
+            final A p = nil;
+            int main(int[5] a,b; float d){
+                this.p.c := 9;
+                this.p.k := 7;
+            }
+        }
+        class B extends C{}
+        class C{
+            int c;
+            final int k = 0;
+        }
+        

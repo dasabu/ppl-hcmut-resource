@@ -1,0 +1,7 @@
+
+        Class Program {
+        main(){
+                Val x,y: String = "String1", "String2";
+                Var a,b: Boolean = True, False;
+        } }
+        

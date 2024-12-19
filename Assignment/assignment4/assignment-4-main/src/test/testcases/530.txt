@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(i),IntType)],[For(Id(i),IntLit(0),IntLit(4),True,Block([VarDecl(Id(y),IntType)],[Call(Id(io),Id(writeIntLn),[Id(i)])])])]))])])

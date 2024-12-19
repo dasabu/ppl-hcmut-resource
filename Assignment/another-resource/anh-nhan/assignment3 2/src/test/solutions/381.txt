@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Phuong),[AttributeDecl(Instance,VarDecl(Id(x),IntType)),AttributeDecl(Instance,VarDecl(Id(x),IntType)),AttributeDecl(Instance,VarDecl(Id(x),IntType,IntLit(10))),AttributeDecl(Instance,ConstDecl(Id(x),IntType,IntLit(10))),AttributeDecl(Instance,ConstDecl(Id(x),FloatType,FloatLit(0.0)))])])

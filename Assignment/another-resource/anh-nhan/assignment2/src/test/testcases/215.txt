@@ -1,0 +1,6 @@
+
+class test {
+	int foo(){
+    a[3+x] := a[b[f+y[2]-h[t[5+j]] * 4]] + 3;
+	}
+}

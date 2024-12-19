@@ -1,0 +1,18 @@
+
+            Class A{
+                Var a: Int=1;
+                Var b: Float=1;
+                Var $a: Int=1;
+                Constructor(a:Int;b:Float){}
+            }
+            Class B{
+                Var a: A;
+            }
+            Class Program {
+                main(){
+                    Var b: B;
+                    Var a: Int;
+                    a=b.a.b;
+                }
+             }
+        

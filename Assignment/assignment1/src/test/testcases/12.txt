@@ -1,0 +1,5 @@
+ class inner_class_test {
+            class inner_class {
+            }
+        }
+        

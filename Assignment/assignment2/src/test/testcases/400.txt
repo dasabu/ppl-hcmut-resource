@@ -1,0 +1,6 @@
+class main {
+               int x(){
+a[2] := a.sdasd[3];
+
+               }
+           }

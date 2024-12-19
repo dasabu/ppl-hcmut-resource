@@ -1,0 +1,19 @@
+
+        class a extends b 
+        {
+            final int c = daaaaaa != 5;
+            int cactus;
+            void kori() 
+            {
+                int x;
+                final float x = 1.224;
+                b := this.call(leftRecursive, rightRecursive);
+            }
+            void main() 
+            {
+                for x := 1 downto -1 do
+                {
+                    x := x + 5;
+                }
+            }
+        }

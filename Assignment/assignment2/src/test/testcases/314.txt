@@ -1,0 +1,21 @@
+
+        class Test{
+            Test(Shape n){
+                for i := 0 to arr.getLength() do {
+                    this.arr[i] := i + arr.getVal(i % 10);
+                }
+            }
+            static void printArr(){
+                for i := 0 to (1 + 1 == 2) do {
+                    int x = 10, a, b;
+                    io.print(this.arr[i % 2]);
+                    a := x;
+                    if b == nil then b := a;
+                    else {
+                        final float z = a[3];
+                        b := -z;
+                    }
+                }
+            }
+        }
+        

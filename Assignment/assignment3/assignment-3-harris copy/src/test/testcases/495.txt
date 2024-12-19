@@ -1,0 +1,9 @@
+
+        class A{
+            void main(){
+                int a;
+                for a := 8 downto 9.5 do
+                    io.writeInt(a);
+            }
+        }
+        

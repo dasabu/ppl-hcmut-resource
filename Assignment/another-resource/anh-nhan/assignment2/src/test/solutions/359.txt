@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(main),Static,[],VoidType,Block([],[Block([],[Block([],[Block([],[Block([],[AssignStmt(Id(evil),Id(bad))])])])])]))])])

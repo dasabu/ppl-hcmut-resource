@@ -1,0 +1,7 @@
+
+            class a {
+                int a;
+                static float b;
+                final int b = 1;
+            }
+            

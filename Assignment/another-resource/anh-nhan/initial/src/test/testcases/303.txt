@@ -1,0 +1,12 @@
+
+            Class Program{
+                Main(){
+                    Val My1stCons: Int=1 ;
+                    Var My1stVar,My2ndVar: Float = 1.0 , 2.0;
+                    Var trueVar,falseVar: Boolean = True, False;
+                    Val stringVal:String="123";
+                    Var classVar: abc=1;
+                    Var arrVar: Array[Int,2]=Array(0,1,2);
+                }
+            }
+        

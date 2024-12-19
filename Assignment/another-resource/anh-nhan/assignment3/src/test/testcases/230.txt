@@ -1,0 +1,7 @@
+
+class test {
+	int a;
+	int foo() {
+		if a == 1 then a := 1; else a := 2;
+	}
+}

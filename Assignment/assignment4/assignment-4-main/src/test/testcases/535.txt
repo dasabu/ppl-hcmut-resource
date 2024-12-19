@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(cars),ArrayType(4,StringType),[StringLit("Volvo"),StringLit("BMW"),StringLit("Ford"),StringLit("Mazda")])],[AssignStmt(ArrayCell(Id(cars),IntLit(0)),StringLit("Opel")),Call(Id(io),Id(writeStr),[ArrayCell(Id(cars),IntLit(0))])]))])])

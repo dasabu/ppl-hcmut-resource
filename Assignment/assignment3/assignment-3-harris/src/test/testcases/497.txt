@@ -1,0 +1,19 @@
+
+         class x extends y{
+            int a,b;
+            final int c=15-15-15202;
+            static int m;
+            int foo(int a,v,b) {
+                x d;
+            }
+            void main() {
+                x d;
+                int m;
+                d.foo1(1,2,3);
+                d.foo(2,3,4);
+            }
+        }
+        class y {
+            void foo1(int a; float b; int c ){}
+        }
+        

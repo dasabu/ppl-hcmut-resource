@@ -1,0 +1,12 @@
+
+        class A extends B{
+            int foo(){
+                B x = new B();
+                int a = x.b;
+            }
+        }
+        class B{
+            int b;
+            final int b = 0;
+        }
+        

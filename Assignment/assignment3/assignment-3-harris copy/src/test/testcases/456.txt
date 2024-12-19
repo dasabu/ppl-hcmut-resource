@@ -1,0 +1,13 @@
+
+        class main{
+            boolean q,w,r,t,a;
+            static final int m = 5;
+            float d;
+            static string x;
+            int b(int a,b,c; float d) {
+                int x;
+                final float m = 7.0;
+                string b;
+            } 
+        }
+        

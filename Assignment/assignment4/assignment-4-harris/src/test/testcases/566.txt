@@ -1,0 +1,10 @@
+
+        class BKoolClass {
+            static void main(){
+                float d;
+                boolean e;
+                e := (1<5);
+                io.writeBool(e);
+            }
+        }
+        

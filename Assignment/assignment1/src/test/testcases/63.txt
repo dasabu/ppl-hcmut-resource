@@ -1,0 +1,8 @@
+ class Shape{}
+            class Circle extends Shape{
+                static void _MaiN_(){
+                    Shape s; 
+                    s := new Circle(); 
+                }
+            }
+        

@@ -1,0 +1,7 @@
+
+class test {
+	int foo() {
+		for x := 5 downto 2 do
+		break;
+	}
+}

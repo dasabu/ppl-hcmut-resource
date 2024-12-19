@@ -1,0 +1,12 @@
+
+            class BKoolClass {
+                int x=5;
+                static void main(){
+                    BkoolClass myObj1 = new BKoolClass();
+                    BkoolClass myObj2 = new BKoolClass();
+                    int a=100;
+                    myObj2.x := 25;
+                    io.writeInt(myObj2.x+myObj1.x+a);
+                }
+            }
+        

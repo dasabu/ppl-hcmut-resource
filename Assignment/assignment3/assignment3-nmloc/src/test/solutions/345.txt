@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(foo),Instance,[],VoidType,Block([],[If(BinaryOp(==,BinaryOp(%,FieldAccess(Self(),Id(x)),IntLit(2)),IntLit(1)),AssignStmt(Id(isEven),BooleanLit(False)),AssignStmt(Id(isEven),BooleanLit(True)))]))])])

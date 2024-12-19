@@ -1,0 +1,20 @@
+class Exp{}
+        class IntLit extends Exp{}
+        class FloatLit{}
+        class BinExp extends Exp{
+            void _mAiN_(){
+                self.left := this.separated("exp");
+                for i := 0 to this.sizeExp do {
+                    self.right := i * this.seperated("expresso");
+                    if (self.right % 3 == 0) then {}
+                    if (self.right(1,2e9,l[1+2*3], true, this.funcfoobar) % 3 == 1) then {
+                        # I_dont_know_wut_to_*&*@()bfshjfbjhsdbhjf_do_here
+                        self.middle := this.hehe;
+                    }
+                    else {
+                        for x2 := 1 downto da.pi(this.func("DuyAnh")) do {}
+                    }
+                }
+            }
+        }
+        

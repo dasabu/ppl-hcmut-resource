@@ -1,0 +1,10 @@
+
+        Class Program {
+        main(){
+                Var x: Int = 1;
+                If (x == 1){
+                    x = 3;
+                }
+                Return "No Error";
+        } }
+        

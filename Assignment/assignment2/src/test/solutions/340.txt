@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(test),Static,[param(Id(hehe),StringType)],FloatType,Block([],[AssignStmt(FieldAccess(Self(),Id(x)),CallExpr(Self(),Id(getVal),[IntLit(1),StringLit(PPL)]))]))])])

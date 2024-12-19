@@ -1,0 +1,11 @@
+
+        class x {
+            int a,b;
+            static float c,d;
+            int[5] e;
+            void foo() {
+                this.e[this.a*2 + 1] := 5;
+                break;
+            }
+        }
+        

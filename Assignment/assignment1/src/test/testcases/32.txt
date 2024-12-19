@@ -1,0 +1,6 @@
+class for_test2{
+            void main(){
+                for i := 1 to (1 + 2 - 3 == 3 - 2 + 1 && 1 * 2 / 3 \ 4) do io.consoleLog(123);
+            }
+        }
+        

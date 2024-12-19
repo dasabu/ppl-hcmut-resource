@@ -1,0 +1,15 @@
+
+            class BKoolClass{
+                int a=10;
+                int b=20;
+                int foo(int x){
+                    return x;
+                }
+                static void main(){ 
+                    BKoolClass bk = new BKoolClass();
+                    if bk.a < bk.b then
+                        bk.a := bk.b;             
+                    io.writeInt(bk.a);       
+                }
+            }
+        

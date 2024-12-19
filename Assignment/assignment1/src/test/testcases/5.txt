@@ -1,0 +1,4 @@
+ class __main__ {
+            int x, 9x = 10;
+        }
+        

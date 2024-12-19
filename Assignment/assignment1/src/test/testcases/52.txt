@@ -1,0 +1,13 @@
+ class test_break_statement {
+            int breakstmt_checking_method(int f){
+                # Le Duy Anh 
+                /* Echo of 
+                Computer Science
+                Engineering 
+                #### nonsense line ####
+                */
+                break;
+                # I dont know what is this for =)))
+            }
+        }
+        

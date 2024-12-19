@@ -1,0 +1,11 @@
+
+        class Test {
+            final int c = 9;
+            Test b;
+            int fun(){
+                Test a;
+                a := this.b;
+                this.c := 0;
+            }
+        }
+        

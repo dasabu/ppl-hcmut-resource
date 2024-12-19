@@ -1,0 +1,27 @@
+
+            Class NhanVien{
+                Var msnv, tuoi: Int;
+                Var ten: String;
+                Var $dem: Int;
+                Constructor(msnv, tuoi: Int; ten: String){
+                    Self.msnv = msnv;
+                    Self.ten = ten;
+                    Self.tuoi = tuoi;
+                    NhanVien::$dem = NhanVien::$dem + 1;
+                }
+                HienThi(){
+                    iostream.Printf("Co ", NhanVien::$dem, " doi tuong duoc tao. \n");
+                }
+            }
+
+            Class Program{
+                main(){
+                    NhanVien::$dem = 0;
+                    Var n1, n2, n3 : NhanVien = New NhanVien(111231, "Nguyen Van A", 25), New NhanVien(213214, "Nguyen Van B", 40), New NhanVien(213215, "Nguyen Van C", 67);
+                    n1.HienThi();
+                    n2.HienThi();
+                    n3.HienThi();
+                    Return;
+                }
+            }
+        

@@ -1,0 +1,5 @@
+
+        class y {
+            int main(int[5] a,b; float c; ABC[5] d){}
+        }
+        

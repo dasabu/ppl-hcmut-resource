@@ -1,0 +1,16 @@
+class A {
+            A a;
+            B foo(B b, a) {
+                D c;
+                B.hihi();
+                c := new D();
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                C c1;
+            }
+            int[3] hihi() {}
+        }
+        class D {}

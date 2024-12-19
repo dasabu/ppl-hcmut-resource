@@ -1,0 +1,14 @@
+
+            Class Program {
+                main(){
+                    Var b: Array[Int,2];
+                    Var a: Array[Array[Int,2],2];
+                    b=Array(1,2);
+                    b[1]=2;
+                    a=Array(Array(1,2),Array(1,2));
+                    a[1]=Array(1,2);
+                    a[1][2]=1;
+                    a[1][2][3]=1;
+                }
+             }
+        

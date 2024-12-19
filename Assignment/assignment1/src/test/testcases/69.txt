@@ -1,0 +1,7 @@
+ class test_ret_with_new_2{
+            ArrayOfShape test_create_new_array(){
+                Shape[5] shape = {1,2,3};
+                return shape[3];
+            }
+        }
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),[MethodDecl(Id(bar),Instance,[],VoidType,Block([ConstDecl(Id(s),ClassType(Id(Shape)),NewExpr(Id(Shape),[StringLit(Circle),FloatLit(3.14)]))],[]))])])

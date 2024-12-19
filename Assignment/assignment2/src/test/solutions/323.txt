@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(test),Id(parents),[AttributeDecl(Static,ConstDecl(Id(s),ClassType(Id(Shape)),NewExpr(Id(Shape),[StringLit(Square)]))),AttributeDecl(Static,ConstDecl(Id(s),ArrayType(10,ClassType(Id(Shape))),[StringLit(Tri),StringLit(Rec)]))])])

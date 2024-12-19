@@ -1,0 +1,6 @@
+class mixed_for_if_method5{
+            int main(){
+                for x := this.getLength(this.foo(1,this.arr[2],this.x)) downto this.getLength(this.foo(1,this.arr[2],this.x)) do {}
+            }
+        }
+        

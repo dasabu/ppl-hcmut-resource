@@ -1,0 +1,10 @@
+ 
+        class associative_operator_test{
+            int foo(){
+                a := b + 2 + n + 5 - g - 9;
+                a := b + 2 + n && 4 + 5 - g || 2 - 9;
+                a := b / 2 * n / 4 && 5 % l || 2 * 9 / 4 % 2;
+                a := b ^ c ;
+            }
+        }
+        

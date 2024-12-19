@@ -1,0 +1,12 @@
+
+        class A extends B{
+            int foo(){
+                A x;
+                int coo; 
+                int a = x.coo ;
+            }
+        }
+        class B{
+            int coo(){}
+        }
+        

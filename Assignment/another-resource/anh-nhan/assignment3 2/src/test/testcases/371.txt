@@ -1,0 +1,8 @@
+
+        class a 
+        {
+            int kori(int a, int b) 
+            {
+                a.b := c;
+            }
+        }

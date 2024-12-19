@@ -1,0 +1,14 @@
+
+            class test {
+                int foo() {
+                    this.foo();
+                        this.foo();
+                            this.foo();
+                                this.foo();
+                            this.foo();
+                        this.foo();
+                    this.foo();
+                this.foo();
+                }
+            }
+        

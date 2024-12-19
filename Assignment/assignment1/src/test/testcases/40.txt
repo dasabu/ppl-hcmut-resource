@@ -1,0 +1,14 @@
+class mixed_for_if_method6{
+            int main(){
+                for x := this.getLength(this.foo(1,this.arr[2],this.x)) downto this.getLength(this.foo(1,this.arr[2],this.x)) do {                    if (x % 2 == 0) then {}
+                    else {}
+                    i := this.setX(this.x);
+                }
+                if (x == 0) then {}
+                else {
+                    i := x + 1 / 2 * (3 && 4) || 5;
+                    for x := true downto x == true do {}
+                }
+            }
+        }
+        

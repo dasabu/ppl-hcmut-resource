@@ -1,0 +1,15 @@
+
+            Class Shape {
+                ## comment nay thi dung ne ##
+                Var x, y : b = 12, 0;
+                test(){
+                    a = 12;
+                    $c = 16;
+                    ## tham hoa bat dau
+                    a.b().e[5] = 19;
+                    New X().b().e[3] = 20;
+                    b::$c = 21;
+                    ##
+                }
+            }
+        

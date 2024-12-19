@@ -1,0 +1,12 @@
+
+            Class Rectangle: Shape {
+                getArea() {
+                    Return Self.length * Self.width;
+                }
+            }
+            Class Program {
+                main() {
+                    Out.printInt(Shape::$numOfShape);
+                }
+            }
+        

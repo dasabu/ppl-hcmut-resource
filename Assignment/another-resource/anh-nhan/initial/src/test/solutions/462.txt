@@ -1,0 +1,1 @@
+Type Mismatch In Statement: ConstDecl(Id(a),ArrayType(2,IntType),[IntLit(1)])

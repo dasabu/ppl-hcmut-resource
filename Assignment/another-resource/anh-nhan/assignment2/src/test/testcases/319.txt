@@ -1,0 +1,9 @@
+class test {
+                        void main(){
+                            float r,s;
+                            int[5] a,b;
+                            r:=2.0;
+                            s:=r*r*this.myPI;
+                            a[0]:= s;
+                        }
+                    }

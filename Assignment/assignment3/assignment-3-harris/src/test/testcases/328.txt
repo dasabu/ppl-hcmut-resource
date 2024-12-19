@@ -1,0 +1,14 @@
+class A {
+            A a;
+            B foo(B b, a) {
+                float c;
+                B.foo(5, 6);
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                final int c = 69;
+                C c1;
+            }
+        }

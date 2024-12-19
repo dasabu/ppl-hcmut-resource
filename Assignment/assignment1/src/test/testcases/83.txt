@@ -1,0 +1,7 @@
+
+        class test {
+            int foo() {
+                return continue;
+            }
+        }
+        

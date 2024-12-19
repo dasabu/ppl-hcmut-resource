@@ -1,0 +1,9 @@
+
+class test {
+	float a;
+	int foo() {
+		for i := 1 to 10 do this.sth();
+			for j := i downto 1 do
+				if (i + j) % 2 == 1 then break;
+	}
+}

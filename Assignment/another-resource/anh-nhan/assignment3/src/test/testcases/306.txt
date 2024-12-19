@@ -1,0 +1,8 @@
+class a extends b {
+                    final int c = daaaaaa != 5;
+                    int cacbu;
+                    void kori() 
+                    {
+                        b := this.suck;
+                    }
+            }

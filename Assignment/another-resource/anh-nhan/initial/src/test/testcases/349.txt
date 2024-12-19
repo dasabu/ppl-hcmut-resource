@@ -1,0 +1,8 @@
+
+            Class Shape {
+                test(){
+                    Self.Foo();
+                    (1+1).X = 12;
+                }
+            }
+        

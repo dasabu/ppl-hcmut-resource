@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Test),Id(Test),[MethodDecl(Id(Method),Static,[param(Id(a),IntType),param(Id(b),IntType),param(Id(c),FloatType),param(Id(e),BoolType),param(Id(g),BoolType)],IntType,Block([],[]))])])

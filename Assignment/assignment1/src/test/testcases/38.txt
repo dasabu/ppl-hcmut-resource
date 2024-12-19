@@ -1,0 +1,14 @@
+class mixed_for_if_method4{
+            void mix_if_for_method4(){
+                for i := 1 to this.size do {
+                    j := i * i;
+                    if j == this.sqrt(i) then j.printTrue();
+                    else j.printFalse();
+                }
+                if j == i then {
+                    for i := j downto j == 0 do {}
+                }
+                else {}
+            }
+        }
+        

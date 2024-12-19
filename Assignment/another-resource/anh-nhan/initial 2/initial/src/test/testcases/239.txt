@@ -1,0 +1,12 @@
+
+            class newname{
+                test(){
+                    for i:= 10 downto a[9] do
+                        for e := 1 to 18 do
+                            if a == b then
+                                this.hello(a, b, new X());
+                            else return;
+                }
+            }
+
+        

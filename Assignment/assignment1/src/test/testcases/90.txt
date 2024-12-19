@@ -1,0 +1,13 @@
+
+        class person {
+            string name;
+            int id;
+            void getdetails(){}
+        }
+        class Example {
+            void main() {
+                person p1;
+                p1.getdetails();
+            }
+        }
+        

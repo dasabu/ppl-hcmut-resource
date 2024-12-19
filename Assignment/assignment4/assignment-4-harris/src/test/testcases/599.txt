@@ -1,0 +1,15 @@
+
+            class MP{
+                int a=11;
+                void foo(){
+                    io.writeInt(11);
+                }
+            }
+            class BKoolClass extends MP{
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    bk.foo();
+                }
+            }
+            
+        

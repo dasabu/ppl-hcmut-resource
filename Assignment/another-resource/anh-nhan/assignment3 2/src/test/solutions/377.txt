@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(PPL),[AttributeDecl(Instance,VarDecl(Id(PPL),StringType,StringLit(Principles of Programming Languages))),AttributeDecl(Instance,VarDecl(Id(lecturer),StringType,StringLit(Dr. Nguyen Hua Phung))),MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(con),StringType)],[AssignStmt(Id(con),BinaryOp(^,Id(lecturer),StringLit( - )))]))])])

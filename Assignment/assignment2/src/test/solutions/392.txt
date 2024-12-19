@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(main),[MethodDecl(Id(x),Instance,[],IntType,Block([],[For(Id(i),IntLit(1),IntLit(100),True,Block([],[Block([],[]),Block([],[]),Block([],[]),Block([],[If(Id(a),AssignStmt(Id(b),Id(a)),If(Id(a),AssignStmt(Id(c),Id(c)),AssignStmt(Id(c),Id(qweqw))))]),Block([],[]),Block([],[]),Block([],[])])])]))])])

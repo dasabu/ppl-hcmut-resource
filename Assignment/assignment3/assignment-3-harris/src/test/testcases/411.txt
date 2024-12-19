@@ -1,0 +1,17 @@
+
+        class main{
+            final main n = nil;
+            int main() {
+                final int x = 2;
+                int i;
+                for i := 0 to 5 do{
+                    final int x = x;
+                }
+                if true then {
+                    final int x = x;
+                }
+                else {final int x = x ;}
+                continue;
+            }
+        }
+        

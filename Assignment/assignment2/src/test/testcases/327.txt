@@ -1,0 +1,7 @@
+
+        class Test { 
+            int foo(){
+                int x, y, z = 10;
+            }
+        }
+        

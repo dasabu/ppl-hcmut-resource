@@ -1,0 +1,17 @@
+
+            Class Program{
+                main(){
+                    Var a : Array[Array[Int, 100], 10];
+                    Var m, n, sum: Int = 10, 100, 0;
+                    Foreach(i In 0 .. m ){
+                        Foreach(j In 0 .. n){
+                            If (a[i][j] % 2 == 0){
+                                sum = sum + a[i][j];
+                            }
+                        }
+                    }
+                    iostream.Printf("Tong cac phan tu chan la: ", sum);
+                    Return;
+                }
+            }
+        

@@ -1,0 +1,13 @@
+Class A {
+                Var a:Int;
+                Var b: A;
+                method1(a, b: Int){
+                    If(19 == a){
+                        Return 19;
+                    }Elseif(b<c){
+
+                    }Else{
+
+                    }
+                }
+             }

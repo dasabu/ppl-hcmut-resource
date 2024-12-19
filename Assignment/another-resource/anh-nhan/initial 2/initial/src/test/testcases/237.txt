@@ -1,0 +1,12 @@
+
+            class Shape extends Hhh {
+                ## comment nay thi dung ne 
+                int x, y, b = 12.34E-33;
+                test(){
+                    a := !b;
+                    b := ---c;
+                    d := e + ---f;
+                    g := !---h;                
+                }
+            }
+        

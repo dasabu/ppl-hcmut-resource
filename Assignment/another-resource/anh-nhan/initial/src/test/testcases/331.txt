@@ -1,0 +1,8 @@
+
+            Class Shape {
+                Hi(){
+                    a[1][b-c] = (a[i])[j];
+                }
+                Var $hi: Array[Array[Int,2],2] = "Hello this is \f some nmice \t string hehe";
+            }
+        

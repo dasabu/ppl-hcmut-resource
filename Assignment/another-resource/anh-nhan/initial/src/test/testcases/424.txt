@@ -1,0 +1,8 @@
+Class Program {
+                Val a:Int = 2;
+                main(){
+                    Var a : Array[Float,2];
+                    a = Array(2, 4);
+                    a = Array(True, 0);
+                }
+             }

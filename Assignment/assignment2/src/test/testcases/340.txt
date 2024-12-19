@@ -1,0 +1,7 @@
+
+        class Test {
+            static float test(string hehe){
+                this.x := this.getVal(1, "PPL");
+            }
+        }
+        

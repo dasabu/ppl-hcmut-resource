@@ -1,0 +1,14 @@
+class A {
+            int a;
+            final int x = 1 + 2;
+            B foo(B b, a) {
+                b.a := new A();
+            }
+        }
+        class B {
+            A a;
+            A foo(A a, b) {
+                C c1;
+            }
+        }
+        class D {}

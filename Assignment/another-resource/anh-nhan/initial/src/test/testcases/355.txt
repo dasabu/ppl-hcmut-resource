@@ -1,0 +1,12 @@
+
+            Class Program
+            {
+                main() {
+                    Var sum : Int = 0;
+                    Var i : Int = 0;
+                    Foreach(i In 1 .. 10 By (a + 5 - 6 * 7 /10)%2) {
+                        sum = sum + i;
+                    }
+                }
+            }
+        

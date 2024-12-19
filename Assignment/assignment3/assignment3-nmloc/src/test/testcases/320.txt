@@ -1,0 +1,6 @@
+
+        class Test{
+            static Shape[10] s;
+            Shape[2] S = {2, 3.0}, sh, as;
+        }
+        

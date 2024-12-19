@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(test_if),Instance,[],Block([If(BinaryOp(==,Id(a),Id(b)),Block([]),If(BinaryOp(==,Id(c),Id(d)),Block([]),If(BinaryOp(==,Id(e),Id(f)),Block([]),Block([]))))]))])])

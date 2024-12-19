@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(test),Instance,[param(Id(a),IntType),param(Id(b),IntType),param(Id(c),FloatType)],Block([AssignStmt(Id(t2),BinaryOp(+,BinaryOp(+,BinaryOp(-,UnaryOp(!,BinaryOp(+,IntLit(2),IntLit(9))),UnaryOp(!,IntLit(1234))),UnaryOp(-,IntLit(0))),BinaryOp(/,StringLit(hello \t haha),IntLit(1000))))]))])])

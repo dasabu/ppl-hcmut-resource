@@ -1,0 +1,7 @@
+
+            class A{
+                static void d(string a) {
+                    int a, c, d;
+                }
+            }
+            

@@ -1,0 +1,8 @@
+
+          class hello {
+          a a = 12312,asdasd = 1232,sadasd;
+
+          }
+          class goobye {
+          }
+          

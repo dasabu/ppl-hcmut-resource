@@ -1,0 +1,5 @@
+class test {
+            int[5] a;
+            float[4] x,y;
+            }
+        

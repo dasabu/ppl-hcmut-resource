@@ -1,0 +1,8 @@
+
+        class A{
+            A d;
+            static int c;
+            int a;
+            int k = A.a;
+        }
+        

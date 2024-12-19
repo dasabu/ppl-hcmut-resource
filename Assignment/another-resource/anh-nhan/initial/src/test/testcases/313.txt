@@ -1,0 +1,13 @@
+
+            Class Program{
+                Val My1stCons,$My2ndCons: Int ;
+                Var My1stVar: Float;
+                Constructor(){
+                    lhs=1;
+                    a.b=1;
+                    abc::$xyz=1;
+                    abc::$xyz.a=1;
+                    a::$b[1]=2;
+                }
+            }
+        

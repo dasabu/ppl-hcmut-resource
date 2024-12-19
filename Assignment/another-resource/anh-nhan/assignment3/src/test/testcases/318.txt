@@ -1,0 +1,8 @@
+class test {
+                        void main(){
+                            if flag then
+                                io.writeStrLn("Expression is true");
+                            else
+                                io.writeStrLn ("Expression is false");
+                        }
+                    }

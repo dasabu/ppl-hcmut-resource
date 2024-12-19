@@ -1,0 +1,2 @@
+
+string a = "em sap be dau roi thay oi;

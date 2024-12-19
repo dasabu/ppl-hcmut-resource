@@ -1,0 +1,7 @@
+class A {
+            A a;
+            void foo(B b, a) {
+                float c;
+            }
+            int foo() {}
+        }

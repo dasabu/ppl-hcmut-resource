@@ -1,0 +1,10 @@
+
+        Class Program {
+        main(){
+                Var x: String;
+                x = "String1" +. "String2";
+                Var y: Boolean;
+                y = x ==. "String2";
+                Return "No Error";
+        } }
+        

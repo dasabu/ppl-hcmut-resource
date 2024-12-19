@@ -1,0 +1,15 @@
+
+        class Shape 
+        {
+            Shape() 
+            {
+                int x;
+                int y = 10;
+                Shape z;
+            }
+            void main() 
+            {
+                Shape e = new Shape();
+            }
+        }
+        

@@ -1,0 +1,6 @@
+
+        class ABC {
+            B b = new X(!a, -b+a, c || a && m)[m+n];
+            static int foo(float m,n; B b){}
+        }
+        

@@ -1,0 +1,10 @@
+
+          class hello {
+            string a(){
+          a := 0;
+          }
+
+          }
+          class goobye {
+          }
+          

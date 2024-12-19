@@ -1,0 +1,11 @@
+
+          class hello {
+          int main () {
+          a := 6;
+          b:= 8;
+          if b >= a then return a;
+          }
+          }
+          class goobye {
+          }
+          

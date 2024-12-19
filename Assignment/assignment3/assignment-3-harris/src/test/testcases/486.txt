@@ -1,0 +1,12 @@
+
+        class A{
+            int get(){}
+        }
+        class B extends A{
+            int get;
+            void foo(){
+                B x;
+                int a = x.get();
+            }
+        }
+        

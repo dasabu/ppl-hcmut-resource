@@ -1,0 +1,17 @@
+
+        class Test{
+            
+        }
+        class t extends Test {
+            
+        }
+        class ttt extends t {
+            # something here i dont know
+            
+            
+            /* hehe
+            keke
+            */
+        }
+        class x extends Test {}
+        

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(_),Instance,[],Block([])),MethodDecl(Id(test),Instance,[],Block([Call(Id(_),Id(b),[Id(a),BinaryOp(+,Id(b),Id(c)),IntLit(12)])])),MethodDecl(Id(X),Instance,[],Block([]))])])

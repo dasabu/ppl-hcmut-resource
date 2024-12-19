@@ -1,0 +1,10 @@
+
+        class ABC{
+            final int a = 1;
+            final int b = this.foo().a;
+            ABC foo(){
+                ABC obj;
+                return obj;
+            }
+        }
+        

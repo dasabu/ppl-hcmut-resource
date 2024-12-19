@@ -1,0 +1,17 @@
+
+        class Phuong 
+        {
+            int x;
+            {
+                int x;
+                {
+                    int x = 10;
+                    {
+                        final int x = 10;
+                        {
+                            final float x = 4.12342421312312e-234125;
+                        }
+                    }
+                }
+            }
+        }

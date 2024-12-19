@@ -1,0 +1,8 @@
+
+        Class Program {
+        main(){
+                Var x,y: Boolean;
+                x = 1 == 2;
+                y = 2.0 != 2;
+        } }
+        

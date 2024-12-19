@@ -1,0 +1,10 @@
+
+        class X{
+            int foo(){
+                int i;
+                for i := 5 to 9 do
+                    break;
+                continue;
+            }
+        }
+        

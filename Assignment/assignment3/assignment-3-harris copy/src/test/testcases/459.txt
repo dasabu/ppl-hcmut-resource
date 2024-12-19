@@ -1,0 +1,13 @@
+
+        class x {
+            int a,b;
+            static float c,d;
+            string foo() {}
+        }
+        class y {
+            x a,b;
+            static x m;
+            final x x = nil;
+            z foo() {}
+        }
+        

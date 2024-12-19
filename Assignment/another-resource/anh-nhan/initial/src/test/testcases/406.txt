@@ -1,0 +1,8 @@
+
+        Class Program {
+        main(){
+                Var a: Int;
+                Val x: Int = 1;
+                Val y: Int = 1 + a;
+        } }
+        

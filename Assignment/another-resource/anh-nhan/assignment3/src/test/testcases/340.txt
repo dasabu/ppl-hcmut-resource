@@ -1,0 +1,6 @@
+class test {
+	int foo(){
+	}
+	int foo2(){
+	}
+}

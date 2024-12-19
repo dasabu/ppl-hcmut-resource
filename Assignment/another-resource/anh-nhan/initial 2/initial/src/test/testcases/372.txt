@@ -1,0 +1,6 @@
+
+        class a extends b 
+        {
+            static int a, b = 5, c = 66, d, e, f = 77, g = 8;
+            final static int a = 1, b = 2, c = 3;
+        }

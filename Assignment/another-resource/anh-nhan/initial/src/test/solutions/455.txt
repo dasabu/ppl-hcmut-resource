@@ -1,0 +1,1 @@
+Type Mismatch In Statement: AssignStmt(Id(a),FieldAccess(FieldAccess(Id(b),Id(a)),Id(b)))

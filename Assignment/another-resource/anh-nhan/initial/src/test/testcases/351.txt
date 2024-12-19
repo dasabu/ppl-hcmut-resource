@@ -1,0 +1,13 @@
+
+            Class Phong
+            {
+                main() {
+                    Foreach(x In start..end By x+5/8-9*3) {
+                        Continue;
+                    }
+                    Foreach(y In a + 9 .. b + 100) {
+                        Break;
+                    }
+                }
+            }
+        

@@ -1,0 +1,11 @@
+
+            class BKoolClass{
+                int a=10;
+                static void main(){
+                    BKoolClass bk = new BKoolClass();
+                    if 1 < 17 then {
+                        io.writeInt(bk.a);
+                    }
+                }
+            }
+        

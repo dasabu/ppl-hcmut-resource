@@ -1,0 +1,8 @@
+
+        class A{
+            int[4] foo(){
+                int[3] a;
+                return a;
+            }
+        }
+        

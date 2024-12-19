@@ -1,0 +1,6 @@
+
+class test {
+	int foo(){
+		x.b[2] := x.m()[3];
+	}
+}

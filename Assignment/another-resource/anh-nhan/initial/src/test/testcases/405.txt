@@ -1,0 +1,11 @@
+
+        Class Program {
+        main(){
+                Var x: Int = 1;
+                Var z: Int = 1;
+                Val t: Int = 1;
+                Var a: Int = 3;
+                Val f: Int = t;
+                Val y: Int = x;
+        } }
+        

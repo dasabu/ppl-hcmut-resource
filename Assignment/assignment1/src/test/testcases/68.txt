@@ -1,0 +1,7 @@
+ class test_ret_with_new_2{
+            void main(){
+                final Shape s = new Circle();
+                final Shape s;
+            }
+        }
+        

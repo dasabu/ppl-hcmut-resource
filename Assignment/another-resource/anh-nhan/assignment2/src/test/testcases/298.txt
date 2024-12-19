@@ -1,0 +1,6 @@
+
+class test {
+	int foo(){
+    a = 1;
+	}
+}

@@ -1,0 +1,11 @@
+class main {
+                           int x(){
+
+                for i := 1 to 100 do {
+                {a := a + b + c * d;
+                }{ }{ }{
+if a  then b :=a; else if a then c:=c ;else c := qweqw; }{ }{ }{
+                }
+}
+               }
+           }

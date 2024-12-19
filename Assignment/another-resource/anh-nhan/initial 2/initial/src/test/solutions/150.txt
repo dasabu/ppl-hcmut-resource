@@ -1,0 +1,1 @@
+float,a,,,b,,,c,;,boolean,x,,,y,,,z,;,int,g,,,h,,,y,;,void,nty,(,),{,readLine,(,),;,fs,:=,readStdin,(,),;,for,(,a,<,b,),for,i,:=,4,downto,-,5,do,h,:=,6,;,if,i,>,6,then,return,0,;,return,1,;,},<EOF>

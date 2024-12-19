@@ -1,0 +1,11 @@
+
+        class WAP {
+            int a,b,c=9,d ;
+            static int[6] k,d = {1,2,true,false},c, f = 10.e5;
+            final static int m = 3,n = 9;
+            static int foo(float c,d; boolean g; int c){
+                A a = new X();
+                B b = new X(2,3)[x.foo(m)];
+            }
+        }
+        

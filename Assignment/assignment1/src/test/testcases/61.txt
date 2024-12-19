@@ -1,0 +1,10 @@
+ class test_continue_statement {
+            final static float flagNum = 1;
+            static void print(Point point){
+                for i := 1 to point.getDistance(this, otherPoint) do continue; 
+                if (point.getEuclideDistance(this) == this.flagNum) then return (true != false);
+                else continue;
+                break;
+            }
+            }
+        

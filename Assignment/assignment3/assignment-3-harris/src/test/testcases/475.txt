@@ -1,0 +1,14 @@
+
+        class x{
+            int a,b;
+            final int c = 7;
+            int foo(int z) {
+                x d;
+                final int k = d.c;
+                z := d.c + d.a * d.b;
+                {
+                    int z = 2;
+                }
+            }
+        }
+        

@@ -1,0 +1,7 @@
+
+        class Test { 
+            void bar(){
+                final boolean[3] arr = {1,2,3};
+            }
+        }
+        

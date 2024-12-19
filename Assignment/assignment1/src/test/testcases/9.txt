@@ -1,0 +1,5 @@
+class test {
+            static final int[4] x = x.foo();
+            final float y = x.bar_(1,2,3);
+        }
+        

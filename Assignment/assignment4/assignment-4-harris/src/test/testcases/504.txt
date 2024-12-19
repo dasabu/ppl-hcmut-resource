@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(BKoolClass),[AttributeDecl(Instance,VarDecl(Id(a),IntType,IntLit(100))),MethodDecl(Id(main),Static,[],VoidType,Block([VarDecl(Id(object1),ClassType(Id(BKoolClass)),NewExpr(Id(BKoolClass),[]))],[AssignStmt(FieldAccess(Id(object1),Id(a)),IntLit(20)),Call(Id(io),Id(writeInt),[FieldAccess(Id(object1),Id(a))])]))])])

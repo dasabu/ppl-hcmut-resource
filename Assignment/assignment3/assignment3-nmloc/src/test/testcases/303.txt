@@ -1,0 +1,16 @@
+
+        class Test extends Test0{
+            int x, y = 10, a;
+            final boolean f = true;
+            final static int g = !f;
+            static float main(){
+                a := f ^ g;
+                f := !g;
+            }
+            static string b;
+            static final int xyz = b;
+            int main2(int x){
+                
+            }
+        }
+        

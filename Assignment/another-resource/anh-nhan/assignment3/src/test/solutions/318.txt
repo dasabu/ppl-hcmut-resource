@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(test),[MethodDecl(Id(main),Static,[],VoidType,Block([],[If(Id(flag),Call(Id(io),Id(writeStrLn),[StringLit(Expression is true)]),Call(Id(io),Id(writeStrLn),[StringLit(Expression is false)]))]))])])

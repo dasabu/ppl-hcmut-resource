@@ -1,0 +1,15 @@
+
+        class Test {
+            static void foo(boolean n; string m; Shape s){
+                if this.sum == n then{
+                    for i := 0 to n - 1 do {
+                        this.sum := this.sum + i * i;
+                        if this.sum != nil then break;
+                        else continue;
+                    }
+                }
+                else this.sum := new Shape("Circle");
+                return this.sum.getValue(1);
+            }
+        }
+        

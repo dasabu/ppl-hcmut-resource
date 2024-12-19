@@ -1,0 +1,10 @@
+class nested_for_method{
+            void nested(int x, y; float e){
+                for i := 1 to this.getLength(x) do 
+                    for j := i + 1 to this.getLength(x) - 1 do {
+                        for k := i + j to this.something[9] do io.consoleWrite("hello");
+                    }
+                for x := 1 + 2 - 3 * 4 / 5 to true || false do {}
+            }
+        }
+        

@@ -1,0 +1,13 @@
+
+        class main extends B{
+            final int k = 8;
+            B x = nil;
+            int c = this.x.e;
+            int foo(int k){
+                int k;
+            }
+        }
+        class B{
+            int e;
+        }
+        

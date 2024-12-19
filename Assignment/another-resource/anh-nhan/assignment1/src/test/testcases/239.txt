@@ -1,0 +1,20 @@
+
+class test {
+	int foo() {
+		float a, b, c;
+		boolean x, y, z;
+    int g, h, y;
+    this.foo1();
+    /* This is foo()*/
+    this.foo2();
+
+    for x := a to b
+		do break;
+    return 1;
+    /*
+        =======================================
+        Comment here
+        =======================================
+    */
+	}
+}

@@ -1,0 +1,8 @@
+
+            class BKoolClass{
+                static void main(){
+                    io.writeBool((5<7));
+                }
+            }
+            
+        

@@ -1,0 +1,7 @@
+
+        class Test { 
+            static void bar(){
+                final string x = "PPL", y, z = "DA";
+            }
+        }
+        

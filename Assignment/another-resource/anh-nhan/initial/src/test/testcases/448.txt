@@ -1,0 +1,11 @@
+
+            Class Program {
+                Val a:String="a"+."b";
+                Val b:Float=-1+1;
+                Val c:Boolean=False&&(("a"+."b")==."ab");
+                main(){
+                    Val a: Int=1;
+                    a=1;
+                }
+             }
+        

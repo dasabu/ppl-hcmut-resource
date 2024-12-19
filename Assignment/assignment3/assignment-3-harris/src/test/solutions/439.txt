@@ -1,0 +1,1 @@
+Type Mismatch In Constant Declaration: AttributeDecl(Instance,ConstDecl(Id(k),ArrayType(3,IntType),[FloatLiteral(4.5),FloatLiteral(2.3),FloatLiteral(4.6)]))

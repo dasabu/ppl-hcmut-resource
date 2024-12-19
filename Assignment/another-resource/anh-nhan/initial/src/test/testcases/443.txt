@@ -1,0 +1,8 @@
+Class A {
+                Var a:Int;
+                Var b: A;
+                method1(){
+                    Var a: A;
+                    b = a.Hello();
+                }
+             }

@@ -1,0 +1,10 @@
+
+          class hello {
+          /* asdasdkjdnlqw masd amdw */
+          no(){pls stop;
+          continue; break; return turn;
+          }
+          }
+          class goobye {
+          }
+          

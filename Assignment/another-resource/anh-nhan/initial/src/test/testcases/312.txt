@@ -1,0 +1,11 @@
+
+            Class Program{
+                Val My1stCons,$My2ndCons: Int ;
+                Var My1stVar: Float;
+                Constructor(){}
+                Destructor(){}
+                method1(){}
+                $method2(){}
+                method3(a,b,c:Int;x,y,z:Float;wut:String){}
+            }
+        

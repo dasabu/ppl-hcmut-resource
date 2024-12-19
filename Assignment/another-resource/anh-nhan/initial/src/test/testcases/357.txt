@@ -1,0 +1,14 @@
+
+            Class Shape {
+                Count_Xgiaithua_(x:Int){
+                    If (x <= 0){
+                        Return "Error";
+                    }
+                    Var GT : Int = 1;
+                    Foreach(i In 1 .. x By 1){
+                        GT = GT * i;
+                    }
+                    Return GT;
+                }
+            }
+        

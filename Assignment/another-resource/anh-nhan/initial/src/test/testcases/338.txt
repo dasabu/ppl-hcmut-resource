@@ -1,0 +1,7 @@
+
+            Class Shape {
+                test(a,b : Int; c : Float){
+                    t2 = !(2+9) - !123_4 + - 0X0 + "hello \t haha" / 1000;
+                }
+            }
+        

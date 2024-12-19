@@ -1,0 +1,7 @@
+
+        class X {
+            float b = 0;
+            X a;
+            final int c = this.a.b;
+        }
+        

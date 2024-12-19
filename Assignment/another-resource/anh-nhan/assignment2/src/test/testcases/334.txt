@@ -1,0 +1,20 @@
+class String1 {
+	string a = "I love U!!!!!";
+	string getString(){
+		return this.a;
+	}
+}
+class String2 {
+	string b = " Chi Pu";
+	string getString(){
+		return this.b;
+	}
+}
+class Example {
+	void main(){
+		String1 str1;
+		String2 str2;
+		string result;
+		result := str1.getString ^ str2.getString;
+	}
+}
