@@ -1,8 +1,8 @@
-#### This is a repository that stores everything I learned in the PPL course at HCMUT
+## This is a repository that stores everything I learned in the PPL course at HCMUT
 
 ---
 
-##### Score:
+### Score:
 
 - Quiz: 8.5
 - Midterm: 8.5
